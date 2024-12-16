@@ -6,3 +6,4 @@
 | [今年黑五，我買了什麼？2024 工作桌面總結 - 雷蒙三十](https://raymondhouch.com/unboxing/2024-desksetup/) | 1809 | [IA](https://web.archive.org/web/20241211081445/https://raymondhouch.com/unboxing/2024-desksetup/) |
 | [#1214 YouTube Music 已经出了年度总结了 - jz's rambling on jz's rambles](https://ramble.imzh.me/1214/) | 2095 | [IA](https://web.archive.org/web/20241211082223/https://ramble.imzh.me/1214/) |
 | [懋和道人 2024 年终总结及未来展望 - 懋和道人](https://www.dao.js.cn/new/2024121411536.shtml) | 2107 | [IA](https://web.archive.org/web/20241215151258/https://www.dao.js.cn/new/2024121411536.shtml) |
+| [2024年年终总结 - 7gugu's Blog](https://7gugu.com/index.php/2024/12/16/2024%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 1110 | [IA](https://web.archive.org/web/20241216062103/https://7gugu.com/index.php/2024/12/16/2024%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) |
