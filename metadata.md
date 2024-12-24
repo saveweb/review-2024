@@ -17,3 +17,4 @@
 | [YuGA2024年度图书 - Yuko's Blog](https://blog.amamiyayuuko.com/p/my-2024/) | 436 | [IA](https://web.archive.org/web/20241222122654/https://blog.amamiyayuuko.com/p/my-2024/) |
 | [我的 2024 - Frost's Blog](https://frostming.com/2024/review/) | 1887 | [IA](https://web.archive.org/web/20241224032637/https://frostming.com/2024/review/) |
 | [2024 年度总结 - 寻寻觅觅，思索看往 - 落叶下的记事本](https://lemonkoi.one/posts/life/2024-year-summary) | 2167 | [IA](https://web.archive.org/web/20241224091134/https://lemonkoi.one/posts/life/2024-year-summary) |
+| [2024 年度站务总结 - SheepChef Blog](https://shef.cc/2024/12/24/2024-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) | 1742 | [IA](https://web.archive.org/web/20241224140445/https://shef.cc/2024/12/24/2024-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) |
