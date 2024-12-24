@@ -16,3 +16,4 @@
 | [2024 年终，个人设备盘点 - 苏洋博客](https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html) | 485 | [IA](https://web.archive.org/web/20241222122556/https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html) |
 | [YuGA2024年度图书 - Yuko's Blog](https://blog.amamiyayuuko.com/p/my-2024/) | 436 | [IA](https://web.archive.org/web/20241222122654/https://blog.amamiyayuuko.com/p/my-2024/) |
 | [我的 2024 - Frost's Blog](https://frostming.com/2024/review/) | 1887 | [IA](https://web.archive.org/web/20241224032637/https://frostming.com/2024/review/) |
+| [2024 年度总结 - 寻寻觅觅，思索看往 - 落叶下的记事本](https://lemonkoi.one/posts/life/2024-year-summary) | 2124 | [IA](https://web.archive.org/web/20241224091134/https://lemonkoi.one/posts/life/2024-year-summary) |
