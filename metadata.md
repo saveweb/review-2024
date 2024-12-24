@@ -15,3 +15,4 @@
 | [2024-细细的红线 - Damao](https://damao2250.github.io/2024/12/20/2024-%E7%BB%86%E7%BB%86%E7%9A%84%E7%BA%A2%E7%BA%BF/) | 1132 | [IA](https://web.archive.org/web/20241222122405/https://damao2250.github.io/2024/12/20/2024-%E7%BB%86%E7%BB%86%E7%9A%84%E7%BA%A2%E7%BA%BF/) |
 | [2024 年终，个人设备盘点 - 苏洋博客](https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html) | 485 | [IA](https://web.archive.org/web/20241222122556/https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html) |
 | [YuGA2024年度图书 - Yuko's Blog](https://blog.amamiyayuuko.com/p/my-2024/) | 436 | [IA](https://web.archive.org/web/20241222122654/https://blog.amamiyayuuko.com/p/my-2024/) |
+| [我的 2024 - Frost's Blog](https://frostming.com/2024/review/) | 1887 | [IA](https://web.archive.org/web/20241224032637/https://frostming.com/2024/review/) |
