@@ -19,3 +19,4 @@
 | [2024 年度总结 - 寻寻觅觅，思索看往 - 落叶下的记事本](https://lemonkoi.one/posts/life/2024-year-summary) | 2167 | [IA](https://web.archive.org/web/20241224091134/https://lemonkoi.one/posts/life/2024-year-summary) |
 | [2024 年度站务总结 - SheepChef Blog](https://shef.cc/2024/12/24/2024-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) | 1742 | [IA](https://web.archive.org/web/20241224140445/https://shef.cc/2024/12/24/2024-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) |
 | [2024，世界一分为二 - Rachel's Blog - Rachel030219](https://blog.rachelt.one/articles/the-world-is-splitting-in-two/) | 897 | [IA](https://web.archive.org/web/20241224161853/https://blog.rachelt.one/articles/the-world-is-splitting-in-two/) |
+| [RECAP2024：胶卷中的一年](https://www.clckblog.space/blog/recap-2024/) | | |
