@@ -21,3 +21,10 @@
 | [2024，世界一分为二 - Rachel's Blog - Rachel030219](https://blog.rachelt.one/articles/the-world-is-splitting-in-two/) | 897 | [IA](https://web.archive.org/web/20241224161853/https://blog.rachelt.one/articles/the-world-is-splitting-in-two/) |
 | [RECAP2024：胶卷中的一年 - CLCK's Space](https://www.clckblog.space/blog/recap-2024/) | 2169 | [IA](https://web.archive.org/web/20241226054154/https://www.clckblog.space/blog/recap-2024/) |
 | [2024 · 前路未尽，初心犹在 - 静かな森](https://innei.in/notes/184) | 286 | [IA](https://web.archive.org/web/20241226055206/https://innei.in/notes/184) |
+| [2024 年概览 - Elizen's Blog](https://elizen.me/posts/2024/12/2024-end/) | 534 | [IA](https://web.archive.org/web/20241226143859/https://elizen.me/posts/2024/12/2024-end/) |
+| [平淡幸福的2024 - Frank笔记](https://frank2019.me/archives/ping-dan-xing-fu-de-2024) | 1038 | [IA](https://web.archive.org/web/20241226144128/https://frank2019.me/archives/ping-dan-xing-fu-de-2024) |
+| [二葉琉璃的2024 - 二葉琉璃の自留地](https://sekaimoe.dpkg123.site/posts/end-of-2024/) | 1725 | [IA](https://web.archive.org/web/20241226144241/https://sekaimoe.dpkg123.site/posts/end-of-2024/) |
+| [2024年读书小结 - 夜未央](https://www.savouer.com/9127.html) | 1399 | [IA](https://web.archive.org/web/20241226144408/https://www.savouer.com/9127.html) |
+| [写在2025——岁月静好 - New Youth](https://bestcoder.cn/2025-2) | 1734 | [IA](https://web.archive.org/web/20241226144543/https://bestcoder.cn/2025-2) |
+| [2024，去码头整点薯条吧 - Magren](https://magren.cc/posts/2024-summary) | 1708 | [IA](https://web.archive.org/web/20241226144710/https://magren.cc/posts/2024-summary) |
+| [2024 年个人博客回顾 - 雅余 · 茶余饭后，闲情雅致](https://yayu.net/4763.html) | 1393 | [IA](https://web.archive.org/web/20241226144817/https://yayu.net/4763.html) |
