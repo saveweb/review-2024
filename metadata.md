@@ -20,4 +20,4 @@
 | [2024 年度站务总结 - SheepChef Blog](https://shef.cc/2024/12/24/2024-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) | 1742 | [IA](https://web.archive.org/web/20241224140445/https://shef.cc/2024/12/24/2024-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) |
 | [2024，世界一分为二 - Rachel's Blog - Rachel030219](https://blog.rachelt.one/articles/the-world-is-splitting-in-two/) | 897 | [IA](https://web.archive.org/web/20241224161853/https://blog.rachelt.one/articles/the-world-is-splitting-in-two/) |
 | [RECAP2024：胶卷中的一年 - CLCK's Space](https://www.clckblog.space/blog/recap-2024/) | 2169 | [IA](https://web.archive.org/web/20241226054154/https://www.clckblog.space/blog/recap-2024/) |
-| [2024 · 前路未尽，初心犹在 - 静かな森](https://innei.in/notes/184) | 2170 | [IA](https://web.archive.org/web/20241226055206/https://innei.in/notes/184) |
+| [2024 · 前路未尽，初心犹在 - 静かな森](https://innei.in/notes/184) | 286 | [IA](https://web.archive.org/web/20241226055206/https://innei.in/notes/184) |
