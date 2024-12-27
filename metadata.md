@@ -29,4 +29,5 @@
 | [2024，去码头整点薯条吧 - Magren](https://magren.cc/posts/2024-summary) | 1708 | [IA](https://web.archive.org/web/20241226144710/https://magren.cc/posts/2024-summary) |
 | [2024 年个人博客回顾 - 雅余 · 茶余饭后，闲情雅致](https://yayu.net/4763.html) | 1393 | [IA](https://web.archive.org/web/20241226144817/https://yayu.net/4763.html) |
 | [2024，使用房车这一年 - 运维咖啡吧](https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife) | 1461 | [IA](https://web.archive.org/web/20241227081321/https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife) |
+| [2024：而今迈步从头越 - longlin's Blog](https://blog.longlin.tech/posts/summary-2024/) |  | [IA](https://web.archive.org/web/20241227123440/https://blog.longlin.tech/posts/summary-2024/) |
 | [2024 · 素锦流年，绮梦新添 - 疏影横斜](https://hsinyau.com/posts/2024-year-end-summary) |  |  |
