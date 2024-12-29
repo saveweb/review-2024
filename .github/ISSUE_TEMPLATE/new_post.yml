@@ -1,0 +1,21 @@
+name: 投稿年终总结
+description: 在这里发起新的 issue 以投稿您的年终总结
+title: "[New]:"
+body:
+  - type: markdown
+    attributes:
+    value: |
+      感谢您的投稿！
+  
+      **请在 issues 标题处填写您的文章标题与网站名称，两者之间使用` - `隔开**
+  - type: input
+    id: post_url
+    attributes:
+      label: 文章链接
+      placeholder: https://example.com/
+      validations:
+        required: true
+  - type: input
+    id: archive_url
+    label: 存档链接
+    description: 请填写你在 [IA](https://web.archive.org/save) 或 [AT](https://archive.today) 上的存档链接
