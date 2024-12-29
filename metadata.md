@@ -31,3 +31,5 @@
 | [2024，使用房车这一年 - 运维咖啡吧](https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife) | 1461 | [IA](https://web.archive.org/web/20241227081321/https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife) |
 | [2024：而今迈步从头越 - longlin's Blog](https://blog.longlin.tech/posts/summary-2024/) | 2173 | [IA](https://web.archive.org/web/20241227123440/https://blog.longlin.tech/posts/summary-2024/) |
 | [2024 · 素锦流年，绮梦新添 - 疏影横斜](https://hsinyau.com/posts/2024-year-end-summary) | 2174 | [IA](https://web.archive.org/web/20241227190440/https://hsinyau.com/posts/2024-year-end-summary) |
+| [咔！𝟐𝟎𝟐4 结束啦~ - HUHU BLOG](https://blog.mwwlzz.top/article/bye2024)| 2186 | [IA](https://web.archive.org/web/20241229153833/https://blog.mwwlzz.top/article/bye2024) |
+| [2024年读书总结 - da1234cao](https://www.da1234cao.space/2024%e5%b9%b4%e8%af%bb%e4%b9%a6%e6%80%bb%e7%bb%93/) | 2187 | [IA](https://web.archive.org/web/20241229154026/https://www.da1234cao.space/2024%E5%B9%B4%E8%AF%BB%E4%B9%A6%E6%80%BB%E7%BB%93/) |
