@@ -33,3 +33,10 @@
 | [2024 · 素锦流年，绮梦新添 - 疏影横斜](https://hsinyau.com/posts/2024-year-end-summary) | 2174 | [IA](https://web.archive.org/web/20241227190440/https://hsinyau.com/posts/2024-year-end-summary) |
 | [咔！𝟐𝟎𝟐4 结束啦~ - HUHU BLOG](https://blog.mwwlzz.top/article/bye2024)| 2186 | [IA](https://web.archive.org/web/20241229153833/https://blog.mwwlzz.top/article/bye2024) |
 | [2024年读书总结 - da1234cao](https://www.da1234cao.space/2024%e5%b9%b4%e8%af%bb%e4%b9%a6%e6%80%bb%e7%bb%93/) | 2187 | [IA](https://web.archive.org/web/20241229154026/https://www.da1234cao.space/2024%E5%B9%B4%E8%AF%BB%E4%B9%A6%E6%80%BB%E7%BB%93/) |
+| [2024 ·年度回顾 - 印记](https://yinji.org/5383.html) | 1712 | [IA](https://web.archive.org/web/20241229160720/https://yinji.org/5383.html) |
+| [2024年年度总结 - Kivinsae's Nest](https://www.kivinsae.com/2024/12/29/2024-12-31-Summary/) | 1899 | [IA](https://web.archive.org/web/20241229160822/https://www.kivinsae.com/2024/12/29/2024-12-31-Summary/) |
+| [我的 2024 读书总结 - Kyle's Blog](https://kyle.ai/blog/7836.html) | 1693 | [IA](https://web.archive.org/web/20241229161242/https://kyle.ai/blog/7836.html) |
+| [2024年终总结 - Jiajun的编程随想](https://jiajunhuang.com/articles/2024_12_29-bye_2024.md.html) | 146 | [IA](https://web.archive.org/web/20241229161319/https://jiajunhuang.com/articles/2024_12_29-bye_2024.md.html) |
+| [2024: 在夜海中观望浪潮 - Randy's Blog](https://lutaonan.com/blog/2024-summary/) | 64 | [IA](https://web.archive.org/web/20241229161523/https://lutaonan.com/blog/2024-summary/) |
+| [📖 2024 阅读记录 - 61's life](https://61.life/2024/books) | 314 | [IA]() |
+| [2024 年终总结：Agent、AI Infra 与 Coding - 高策](http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2024) | 1606 | [IA]() |
