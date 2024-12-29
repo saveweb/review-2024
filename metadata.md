@@ -38,5 +38,6 @@
 | [我的 2024 读书总结 - Kyle's Blog](https://kyle.ai/blog/7836.html) | 1693 | [IA](https://web.archive.org/web/20241229161242/https://kyle.ai/blog/7836.html) |
 | [2024年终总结 - Jiajun的编程随想](https://jiajunhuang.com/articles/2024_12_29-bye_2024.md.html) | 146 | [IA](https://web.archive.org/web/20241229161319/https://jiajunhuang.com/articles/2024_12_29-bye_2024.md.html) |
 | [2024: 在夜海中观望浪潮 - Randy's Blog](https://lutaonan.com/blog/2024-summary/) | 64 | [IA](https://web.archive.org/web/20241229161523/https://lutaonan.com/blog/2024-summary/) |
-| [📖 2024 阅读记录 - 61's life](https://61.life/2024/books) | 314 | [IA]() |
-| [2024 年终总结：Agent、AI Infra 与 Coding - 高策](http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2024) | 1606 | [IA]() |
+| [📖 2024 阅读记录 - 61's life](https://61.life/2024/books) | 314 | [IA](https://web.archive.org/web/20241229161711/https://61.life/2024/books) |
+| [2024 年终总结：Agent、AI Infra 与 Coding - 高策](http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2024) | 1606 | [IA](https://web.archive.org/web/20241229161827/http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2024) |
+| [2024 年度总结 - Bingxin Blog](https://blog.byteloid.one/2024/12/29/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 2188 | [IA](https://web.archive.org/web/20241229162508/https://blog.byteloid.one/2024/12/29/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
