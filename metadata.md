@@ -57,3 +57,6 @@
 | [2024 年总结-成长虽晚不迟 - 王大大语录](https://moonwwdz.github.io/post/2024/12-25-2024-summary/) | Null | [AT](https://archive.ph/IXn9N) |
 | [回望2024，展望2025 - Cameron Chen's Life](https://camerongo.top/index.php/archives/3/) | 2198 | [IA](https://web.archive.org/web/20241230133021/https://camerongo.top/index.php/archives/3/) |
 | [2024 Recap - Ursa Major](http://elfile4138.moe/2024/12/2024-Recap/) | 1625 | [IA](https://web.archive.org/web/20241230133428/https://elfile4138.moe/2024/12/2024-Recap/) |
+| [2024 年度总结 - Frange Zone](https://frangezone.github.io/2024/12/30/2024-summary/) | 1495 | [IA](https://web.archive.org/web/20241230221721/https://frangezone.github.io/2024/12/30/2024-summary/) |
+| [我的 2024 年度总结 - Restent's Notebook](https://blog.gxres.net/posts/2024-annual-summary) | 1768 | [IA](https://web.archive.org/web/20241230221811/https://blog.gxres.net/posts/2024-annual-summary/) |
+| [「現実じゃない、言われてしまうかな」 - 湛蓝的调色板](https://blog.nekoq.top/blog/2024) | 1600 | [AT](https://archive.ph/lNzGp) |
