@@ -41,3 +41,7 @@
 | [📖 2024 阅读记录 - 61's life](https://61.life/2024/books) | 314 | [IA](https://web.archive.org/web/20241229161711/https://61.life/2024/books) |
 | [2024 年终总结：Agent、AI Infra 与 Coding - 高策](http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2024) | 1606 | [IA](https://web.archive.org/web/20241229161827/http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2024) |
 | [2024 年度总结 - Bingxin Blog](https://blog.byteloid.one/2024/12/29/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 2188 | [IA](https://web.archive.org/web/20241229162508/https://blog.byteloid.one/2024/12/29/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
+| [2024年度总结 - 水八口记 • 记录当下赠与未来](https://shuiba.co/year-report-2024) | 462 | [IA](https://web.archive.org/web/20241230053208/https://shuiba.co/year-report-2024) |
+| [小树的 2024 年终总结 - 一颗小树](https://yeshu.cloud/posts/annual-summary-2024/) | 1749 | [IA](https://web.archive.org/web/20241230053321/https://yeshu.cloud/posts/annual-summary-2024/) |
+| [2024年终总结 与 2025新年展望 - YoungForest's blog](https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/) | 1593 | [IA](https://web.archive.org/web/20241230053458/https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/) |
+| [2024年回顾 - 竹炉山房](https://synyan.cn/t/50110) | 1125 | [IA](https://web.archive.org/web/20241230053551/https://synyan.cn/t/50110) |
