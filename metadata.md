@@ -55,3 +55,4 @@
 | [繁华 - 2024年终复盘 - 一世繁华](https://blog.hantaotao.top/archives/156/) | 2196 | [IA](https://web.archive.org/web/20241230091457/https://blog.hantaotao.top/archives/156/) |
 | [2024年终总结 - 龙窝](https://blog.qiyao.us.kg/posts/9333/) | 2197 | [IA](https://web.archive.org/web/20241230092004/https://blog.qiyao.us.kg/posts/9333/) |
 | [2024 年总结-成长虽晚不迟 - 王大大语录](https://moonwwdz.github.io/post/2024/12-25-2024-summary/) | Null | [AT](https://archive.ph/IXn9N) |
+| [回望2024，展望2025 - Cameron Chen's Life](https://camerongo.top/index.php/archives/3/) | 2198 | [IA](https://web.archive.org/web/20241230133021/https://camerongo.top/index.php/archives/3/) |
