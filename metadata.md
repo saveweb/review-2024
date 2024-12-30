@@ -54,3 +54,4 @@
 | [我的2024年度总结 - 小陆ya的工作站](https://www.xlwlgzs.com/archives/wd2024ndzj) | 2195 | [IA](https://web.archive.org/web/20241230091226/https://www.xlwlgzs.com/archives/wd2024ndzj) |
 | [繁华 - 2024年终复盘 - 一世繁华](https://blog.hantaotao.top/archives/156/) | 2196 | [IA](https://web.archive.org/web/20241230091457/https://blog.hantaotao.top/archives/156/) |
 | [2024年终总结 - 龙窝](https://blog.qiyao.us.kg/posts/9333/) | 2197 | [IA](https://web.archive.org/web/20241230092004/https://blog.qiyao.us.kg/posts/9333/) |
+| [2024 年总结-成长虽晚不迟 - 王大大语录](https://moonwwdz.github.io/post/2024/12-25-2024-summary/) | Null | [AT](https://archive.ph/IXn9N) |
