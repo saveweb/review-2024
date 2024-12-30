@@ -45,3 +45,12 @@
 | [小树的 2024 年终总结 - 一颗小树](https://yeshu.cloud/posts/annual-summary-2024/) | 1749 | [IA](https://web.archive.org/web/20241230053321/https://yeshu.cloud/posts/annual-summary-2024/) |
 | [2024年终总结 与 2025新年展望 - YoungForest's blog](https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/) | 1593 | [IA](https://web.archive.org/web/20241230053458/https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/) |
 | [2024年回顾 - 竹炉山房](https://synyan.cn/t/50110) | 1125 | [IA](https://web.archive.org/web/20241230053551/https://synyan.cn/t/50110) |
+| [2024·年终 - 子书承宇](https://zishu.is-cool.dev/2024/12/31/212542/) | 2189 | [IA](https://web.archive.org/web/20241230090034/https://zishu.is-cool.dev/2024/12/31/212542/) |
+| [2024，再见-2024总结 - 可执行程序の天境小屋🥝](https://hanta.us.kg/2024/12/29/2024%EF%BC%8C%E5%86%8D%E8%A7%81-2024%E6%80%BB%E7%BB%93/) | 2190 | [IA](https://web.archive.org/web/20241230090310/https://hanta.us.kg/2024/12/29/2024%EF%BC%8C%E5%86%8D%E8%A7%81-2024%E6%80%BB%E7%BB%93/) |
+| [2024年终总结 - Redish101 Blog](https://blog.redish101.top/article/2024-summary) | 2191 | [IA](https://web.archive.org/web/20241230090412/https://blog.redish101.top/article/2024-summary) |
+| [ 再见2024 · 共赴一场烟火绚烂  - 呓语梦轩](https://blog.awaae001.top/posts/57024.html) | 2192 | [IA](https://web.archive.org/web/20241230090700/https://blog.awaae001.top/posts/57024.html) |
+| [关于我在2024年做了这件事... - 叶泯希](https://ymxblog.us.kg/posts/3749d309.html) | 2193 | [IA](https://web.archive.org/web/20241230090857/https://ymxblog.us.kg/posts/3749d309.html) |
+| [2024年终总结 - Tianli's Blog](https://blog.tianli0.top/posts/2024/To2025) | 2194 | [IA](https://web.archive.org/web/20241230091034/https://blog.tianli0.top/posts/2024/To2025) |
+| [我的2024年度总结 - 小陆ya的工作站](https://www.xlwlgzs.com/archives/wd2024ndzj) | 2195 | [IA](https://web.archive.org/web/20241230091226/https://www.xlwlgzs.com/archives/wd2024ndzj) |
+| [繁华 - 2024年终复盘 - 一世繁华](https://blog.hantaotao.top/archives/156/) | 2196 | [IA](https://web.archive.org/web/20241230091457/https://blog.hantaotao.top/archives/156/) |
+| [2024年终总结 - 龙窝](https://blog.qiyao.us.kg/posts/9333/) | 2197 | [IA](https://web.archive.org/web/20241230092004/https://blog.qiyao.us.kg/posts/9333/) |
