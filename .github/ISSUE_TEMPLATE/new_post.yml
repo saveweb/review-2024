@@ -7,9 +7,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        感谢你的投稿
-        
-        **请在 issue 标题处填写您的文章标题和网站名称，两者之间使用` - `隔开**
+        感谢你的投稿~
+
+          - 🌟投稿前请检查是否已被收录
+          - 为了方便收录、管理和查阅，请按照以下格式填写您的 issue 标题：`文章标题 - 网站名称`
   - type: input
     id: post_url
     attributes:
