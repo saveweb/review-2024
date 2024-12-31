@@ -77,3 +77,4 @@
 | [我的 2024 年 - sjdhome blog](https://www.sjdhome.com/blog/post/my-2024/) | 1652 | [IA](https://web.archive.org/web/20241231102645/https://www.sjdhome.com/blog/post/my-2024/) |
 | [2024年终极简总结 - 闲趣日评](https://yufm.com/661819.html) | 362 | [IA](https://web.archive.org/web/20241231102739/https://yufm.com/661819.html) |
 | [2024年股市小记 - 夜未央](https://www.savouer.com/9132.html) | 1399 | [IA](https://web.archive.org/web/20241231102829/https://www.savouer.com/9132.html) |
+| [2024 年度总结 - imba久期 BLOG](https://imba97.cn/archives/795/) | 1585 | [IA](https://web.archive.org/web/20241231102829/https://imba97.cn/archives/795/) |
