@@ -69,3 +69,6 @@
 | [2024 年读书记录 - Yiran's Blog](https://zdyxry.github.io/2024/12/31/2024-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) | 243 | [IA](https://web.archive.org/web/20241231053715/https://zdyxry.github.io/2024/12/31/2024-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) |
 | [2024年閱讀報告 - ShineKid](https://shinekid.com/2024/12/2024-reading-report/) | 1200 | [IA](https://web.archive.org/web/20241231053843/https://shinekid.com/2024/12/2024-reading-report/) |
 | [2024总结, 顺境出产量-逆境出品质 - 骑行超过牛 个人博客](https://www.chaoniulian.com/blog/2024.html) | 1802 | [IA](https://web.archive.org/web/20241231054007/https://www.chaoniulian.com/blog/2024.html) |
+| [2024 小记 - 平凡、机遇、摆烂、向前 - 陵长镜的小博客](https://r1n.top/post/2efcafd.html) | 2199 | [IA](https://web.archive.org/web/20241231054724/https://r1n.top/post/2efcafd.html) |
+| [2024年总结 - 满心记](https://qq.mba/206.html) | 2200 | [IA](https://web.archive.org/web/20241231054647/https://qq.mba/206.html) |
+| [2024年总结和Typecho插件 - 刘郎阁](https://vjo.cc/1575) | 2201 | [IA](https://web.archive.org/web/20241231054853/https://vjo.cc/1575) |
