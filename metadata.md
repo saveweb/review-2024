@@ -109,3 +109,5 @@
 | [2024 年度总结 - Debug客栈](https://blog.debuginn.com/p/debuginn-2024/) | 88 | [IA](https://web.archive.org/web/20241231190258/https://blog.debuginn.com/p/debuginn-2024/) |
 | [2024 年终总结 - victoryang00’ blog](https://asplos.dev/wordpress/2024/08/19/2024-nian-zhong-zong-jie/) | 1597 | [IA](https://web.archive.org/web/20241231190331/https://asplos.dev/wordpress/2024/08/19/2024-nian-zhong-zong-jie/) |
 | [个人春秋2024 - 一派胡言](https://dantezy.xyz/posts/history-2024/) | 769 | [IA](https://web.archive.org/web/20241231190426/https://dantezy.xyz/posts/history-2024/) |
+| [“用我们，布满伤痕的双手”-夏鸢的2024年度总结 – 小夏鸢的波子汽水店](https://me.owo.today/2024/12/31/2024-year-end-summary/) | 1724 | [IA](https://web.archive.org/web/20241231191336/https://me.owo.today/2024/12/31/2024-year-end-summary/) |
+| [2024 年终总结：夜空中点点繁星 - 落雨宸的时光机](https://blog.lzc256.com/posts/summary-2024/) | 2202 | [IA](https://web.archive.org/web/20241231192141/https://blog.lzc256.com/posts/summary-2024/) |
