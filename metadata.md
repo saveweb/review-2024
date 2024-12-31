@@ -60,3 +60,12 @@
 | [2024 年度总结 - Frange Zone](https://frangezone.github.io/2024/12/30/2024-summary/) | 1495 | [IA](https://web.archive.org/web/20241230221721/https://frangezone.github.io/2024/12/30/2024-summary/) |
 | [我的 2024 年度总结 - Restent's Notebook](https://blog.gxres.net/posts/2024-annual-summary) | 1768 | [IA](https://web.archive.org/web/20241230221811/https://blog.gxres.net/posts/2024-annual-summary/) |
 | [「現実じゃない、言われてしまうかな」 - 湛蓝的调色板](https://blog.nekoq.top/blog/2024) | 1600 | [AT](https://archive.ph/lNzGp) |
+| [2024 年末回顧 - 一座島 - 一座島，一個人，一個世界。](https://island.shaform.com/zh/2024/12/30/2024-year-in-review/) | 461 | [IA](https://web.archive.org/web/20241231053006/https://island.shaform.com/zh/2024/12/30/2024-year-in-review/) |
+| [2024 年度总结 - 阿猫的博客](https://ameow.xyz/archives/2024-wrapup) | 1744 | [IA](https://web.archive.org/web/20241231053405/https://ameow.xyz/archives/2024-wrapup) |
+| [2024年终总结 - Joe's Blog](https://hijiangtao.github.io/2024/12/31/Letter-to-2024/) | 269 | [IA](https://web.archive.org/web/20241231053411/https://hijiangtao.github.io/2024/12/31/Letter-to-2024/) |
+| [2024年终 - 青竹](https://estertion.win/2024/12/2024%E5%B9%B4%E7%BB%88/) | 1825 | [IA](https://web.archive.org/web/20241231053524/https://estertion.win/2024/12/2024%E5%B9%B4%E7%BB%88/) |
+| [2024年终总结 - PPD's blog](https://ppd0705.github.io/post/2024_summary/) | 1611 | [IA](https://web.archive.org/web/20241231053621/https://ppd0705.github.io/post/2024_summary/) |
+| [2024 年度回顾 - Platform Thinking +](https://pt.plus/2024-year-in-review/) | 429 | [IA](https://web.archive.org/web/20241231053953/https://pt.plus/2024-year-in-review/) |
+| [2024 年读书记录 - Yiran's Blog](https://zdyxry.github.io/2024/12/31/2024-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) | 243 | [IA](https://web.archive.org/web/20241231053715/https://zdyxry.github.io/2024/12/31/2024-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) |
+| [2024年閱讀報告 - ShineKid](https://shinekid.com/2024/12/2024-reading-report/) | 1200 | [IA](https://web.archive.org/web/20241231053843/https://shinekid.com/2024/12/2024-reading-report/) |
+| [2024总结, 顺境出产量-逆境出品质 - 骑行超过牛 个人博客](https://www.chaoniulian.com/blog/2024.html) | 1802 | [IA](https://web.archive.org/web/20241231054007/https://www.chaoniulian.com/blog/2024.html) |
