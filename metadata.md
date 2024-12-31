@@ -111,3 +111,12 @@
 | [个人春秋2024 - 一派胡言](https://dantezy.xyz/posts/history-2024/) | 769 | [IA](https://web.archive.org/web/20241231190426/https://dantezy.xyz/posts/history-2024/) |
 | [“用我们，布满伤痕的双手”-夏鸢的2024年度总结 – 小夏鸢的波子汽水店](https://me.owo.today/2024/12/31/2024-year-end-summary/) | 1724 | [IA](https://web.archive.org/web/20241231191336/https://me.owo.today/2024/12/31/2024-year-end-summary/) |
 | [2024 年终总结：夜空中点点繁星 - 落雨宸的时光机](https://blog.lzc256.com/posts/summary-2024/) | 2202 | [IA](https://web.archive.org/web/20241231192141/https://blog.lzc256.com/posts/summary-2024/) |
+| [The 2024 - SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/posts2/2024/12/the-2024) | 2144 | [IA](https://web.archive.org/web/20241231205432/https://sourlemonjuice.github.io/SourLemonJuice-blog/posts2/2024/12/the-2024) |
+| [本当の僕らをありがとう - Manjusaka](https://www.manjusaka.blog/posts/2024/12/31/at-the-end-of-2024/) | 2004 | [IA](https://web.archive.org/web/20241231205553/https://www.manjusaka.blog/posts/2024/12/31/at-the-end-of-2024/) |
+| [年终总结 - 抽象的 2024 - Zwh's Blog](https://zwh.moe/posts/default/review-2024) | 918 | [IA](https://web.archive.org/web/20241231205712/https://zwh.moe/posts/default/review-2024) |
+| [2024年终总结 - 轻舟已过万重山 - 啊不都的自留地](https://www.oplog.cn/archives/2260.html) | 932 | [IA](https://web.archive.org/web/20241231205838/https://www.oplog.cn/archives/2260.html) |
+| [2024 年度总结 - 怠惰のコエ - imba久期 BLOG](https://imba97.cn/archives/795/) | 1585 | [IA](https://web.archive.org/web/20241231205917/https://imba97.cn/archives/795/) |
+| [2024：简单的理想生活 - 程序员的喵](http://catcoding.me/p/2024-summary/) | 1493 | [IA](https://web.archive.org/web/20241231210016/https://catcoding.me/p/2024-summary/) |
+| [2024 - Shadow Walker 松烟阁](https://www.edony.ink/2024/) | 1489 | [IA](https://web.archive.org/web/20241231210100/https://www.edony.ink/2024/) |
+| [2024 年终总结 - Hans362 's Blog](https://blog.hans362.cn/post/2024-annual-report/) | 1719 | [IA](https://web.archive.org/web/20241231210153/https://blog.hans362.cn/post/2024-annual-report/) |
+| [2024 年末回顾 - 不完美的日子 - Pseudoyu](https://www.pseudoyu.com/zh/2024/12/31/yearly_review_2024/) | 1458 | [IA](https://web.archive.org/web/20241231210244/https://www.pseudoyu.com/zh/2024/12/31/yearly_review_2024/) |
