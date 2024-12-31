@@ -12,116 +12,118 @@
 
 ---
 
-计数: 109 篇。下表每次 CI 乱序输出。
+计数: 111 篇。下表每次 CI 乱序输出。
 
 | Article | Blog\_ID | Archive |
 | --- | --- | --- |
-| [2024年閱讀報告 - ShineKid](https://shinekid.com/2024/12/2024-reading-report/) | 1200 | [IA](https://web.archive.org/web/20241231053843/https://shinekid.com/2024/12/2024-reading-report/) |
-| [2024年总结 - ddadaal.me](https://ddadaal.me/articles/summary-for-2024/cn) | 400 | [IA](https://web.archive.org/web/20241231184331/https://ddadaal.me/articles/summary-for-2024/cn) |
-| [关于我在2024年做了这件事... - 叶泯希](https://ymxblog.us.kg/posts/3749d309.html) | 2193 | [IA](https://web.archive.org/web/20241230090857/https://ymxblog.us.kg/posts/3749d309.html) |
-| [2024年总结 - 满心记](https://qq.mba/206.html) | 2200 | [IA](https://web.archive.org/web/20241231054647/https://qq.mba/206.html) |
-| [#1214 YouTube Music 已经出了年度总结了 - jz's rambling on jz's rambles](https://ramble.imzh.me/1214/) | 2095 | [IA](https://web.archive.org/web/20241211082223/https://ramble.imzh.me/1214/) |
-| [咔！𝟐𝟎𝟐4 结束啦~ - HUHU BLOG](https://blog.mwwlzz.top/article/bye2024)| 2186 | [IA](https://web.archive.org/web/20241229153833/https://blog.mwwlzz.top/article/bye2024) |
-| [2024 年概览 - Elizen's Blog](https://elizen.me/posts/2024/12/2024-end/) | 534 | [IA](https://web.archive.org/web/20241226143859/https://elizen.me/posts/2024/12/2024-end/) |
-| [2024 年度书单 - Free Mind](https://freemind.pluskid.org/books/2024-annual-book-list/) | 1300 | [IA](https://web.archive.org/web/20241222121342/https://freemind.pluskid.org/books/2024-annual-book-list/) |
-| [YuGA2024年度图书 - Yuko's Blog](https://blog.amamiyayuuko.com/p/my-2024/) | 436 | [IA](https://web.archive.org/web/20241222122654/https://blog.amamiyayuuko.com/p/my-2024/) |
-| [2024年终极简总结 - 闲趣日评](https://yufm.com/661819.html) | 362 | [IA](https://web.archive.org/web/20241231102739/https://yufm.com/661819.html) |
-| [总结 2024 - Pig Fang](https://blog.gplane.win/posts/summary-of-2024.html) | 2016 | [IA](https://web.archive.org/web/20241231185421/https://blog.gplane.win/posts/summary-of-2024.html) |
-| [2024年的尾巴，冒泡推歌 -  kn007的个人博客](https://kn007.net/topics/the-tail-end-of-2024-say-hello-to-everyone/) | 1552 | [IA](https://web.archive.org/web/20241211080938/https://kn007.net/topics/the-tail-end-of-2024-say-hello-to-everyone/) |
-| [2024年终 - 青竹](https://estertion.win/2024/12/2024%E5%B9%B4%E7%BB%88/) | 1825 | [IA](https://web.archive.org/web/20241231053524/https://estertion.win/2024/12/2024%E5%B9%B4%E7%BB%88/) |
-| [2024年终总结 - Joe's Blog](https://hijiangtao.github.io/2024/12/31/Letter-to-2024/) | 269 | [IA](https://web.archive.org/web/20241231053411/https://hijiangtao.github.io/2024/12/31/Letter-to-2024/) |
-| [今年黑五，我買了什麼？2024 工作桌面總結 - 雷蒙三十](https://raymondhouch.com/unboxing/2024-desksetup/) | 1809 | [IA](https://web.archive.org/web/20241211081445/https://raymondhouch.com/unboxing/2024-desksetup/) |
-| [我的 2024 - 251 的魔法实验室](https://blog.251.sh/oh-my-2024) | 552 | [IA](https://web.archive.org/web/20241222121109/https://blog.251.sh/oh-my-2024) |
-| [2024 年终总结 - 咸糖 - 自律者自由](https://vim0.com/post/2024_recap/) | 894 | [IA](https://web.archive.org/web/20241211080200/https://vim0.com/post/2024_recap/) |
-| [回望2024，展望2025 - Cameron Chen's Life](https://camerongo.top/index.php/archives/3/) | 2198 | [IA](https://web.archive.org/web/20241230133021/https://camerongo.top/index.php/archives/3/) |
-| [2024 – 2025 - 非理勿试](https://www.ntiy.com/2257.html) | 1039 | [IA](https://web.archive.org/web/20241231102504/https://www.ntiy.com/2257.html) |
-| [2024年终总结 - 龙窝](https://blog.qiyao.us.kg/posts/9333/) | 2197 | [IA](https://web.archive.org/web/20241230092004/https://blog.qiyao.us.kg/posts/9333/) |
-| [2024跋 - 停云馆](https://blog.yizhou.ac.cn/posts/2024%E8%B7%8B/) | 2138 | [IA](https://web.archive.org/web/20241231185131/https://blog.yizhou.ac.cn/posts/2024%E8%B7%8B/) |
-| [2024年终总结 - 主打求稳 - Deepzz's Blog](https://deepzz.com/post/2024-year-end.html) | 188 | [IA](https://web.archive.org/web/20241231183839/https://deepzz.com/post/2024-year-end.html) |
-| [2024 岁末总结 - 苏洋博客](https://soulteary.com/2024/12/31/2024-year-end-summary.html) | 485 | [IA](https://web.archive.org/web/20241231184057/https://soulteary.com/2024/12/31/2024-year-end-summary.html) |
-| [2024 Recap - Ursa Major](http://elfile4138.moe/2024/12/2024-Recap/) | 1625 | [IA](https://web.archive.org/web/20241230133428/https://elfile4138.moe/2024/12/2024-Recap/) |
-| [2024年度回顾 - 海阔天空的云](https://www.hktkdy.com/2024/12/20/2024/2024/) | 1714 | [IA](https://web.archive.org/web/20241222121533/https://www.hktkdy.com/2024/12/20/2024/2024/) |
-| [年终总结 2024 - 米随随 s5s5 ](https://s5s5.me/4244) | 1130 | [IA](https://web.archive.org/web/20241231185642/https://s5s5.me/4244) |
-| [写在2025——岁月静好 - New Youth](https://bestcoder.cn/2025-2) | 1734 | [IA](https://web.archive.org/web/20241226144543/https://bestcoder.cn/2025-2) |
-| [📖 2024 阅读记录 - 61's life](https://61.life/2024/books) | 314 | [IA](https://web.archive.org/web/20241229161711/https://61.life/2024/books) |
-| [我的 2024 年 - sjdhome blog](https://www.sjdhome.com/blog/post/my-2024/) | 1652 | [IA](https://web.archive.org/web/20241231102645/https://www.sjdhome.com/blog/post/my-2024/) |
-| [2024，再见-2024总结 - 可执行程序の天境小屋🥝](https://hanta.us.kg/2024/12/29/2024%EF%BC%8C%E5%86%8D%E8%A7%81-2024%E6%80%BB%E7%BB%93/) | 2190 | [IA](https://web.archive.org/web/20241230090310/https://hanta.us.kg/2024/12/29/2024%EF%BC%8C%E5%86%8D%E8%A7%81-2024%E6%80%BB%E7%BB%93/) |
-| [2024 年终总结：Agent、AI Infra 与 Coding - 高策](http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2024) | 1606 | [IA](https://web.archive.org/web/20241229161827/http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2024) |
-| [2024 年度总结 - Frange Zone](https://frangezone.github.io/2024/12/30/2024-summary/) | 1495 | [IA](https://web.archive.org/web/20241230221721/https://frangezone.github.io/2024/12/30/2024-summary/) |
-| [2024年年度总结 - Kivinsae's Nest](https://www.kivinsae.com/2024/12/29/2024-12-31-Summary/) | 1899 | [IA](https://web.archive.org/web/20241229160822/https://www.kivinsae.com/2024/12/29/2024-12-31-Summary/) |
-| [2024年终总结：又到一年年终的时候，今年的你过的好吗？ - 蓝卡](https://www.lanka.cn/2025_4722.html) | 216 | [IA](https://web.archive.org/web/20241222121843/https://www.lanka.cn/2025_4722.html) |
-| [2024 年终总结 - victoryang00’ blog](https://asplos.dev/wordpress/2024/08/19/2024-nian-zhong-zong-jie/) | 1597 | [IA](https://web.archive.org/web/20241231190331/https://asplos.dev/wordpress/2024/08/19/2024-nian-zhong-zong-jie/) |
-| [2024 年终总结 - UsubeniFantasy](https://ssshooter.com/2024-summary/) | 158 | [IA](https://web.archive.org/web/20241231184534/https://ssshooter.com/2024-summary/) |
-| [2024·年终 - 子书承宇](https://zishu.is-cool.dev/2024/12/31/212542/) | 2189 | [IA](https://web.archive.org/web/20241230090034/https://zishu.is-cool.dev/2024/12/31/212542/) |
-| [2024总结 - slince Blog](https://slince-zero.github.io/posts/2024/12/31/2024%E6%80%BB%E7%BB%93.html) | 1612 | [IA](https://web.archive.org/web/20241231184805/https://slince-zero.github.io/posts/2024/12/31/2024%E6%80%BB%E7%BB%93.html) |
-| [平淡幸福的2024 - Frank笔记](https://frank2019.me/archives/ping-dan-xing-fu-de-2024) | 1038 | [IA](https://web.archive.org/web/20241226144128/https://frank2019.me/archives/ping-dan-xing-fu-de-2024) |
-| [2024年读书小结 - 夜未央](https://www.savouer.com/9127.html) | 1399 | [IA](https://web.archive.org/web/20241226144408/https://www.savouer.com/9127.html) |
-| [2024 年度总结 - 阿猫的博客](https://ameow.xyz/archives/2024-wrapup) | 1744 | [IA](https://web.archive.org/web/20241231053405/https://ameow.xyz/archives/2024-wrapup) |
-| [2024年一位中年男人的无聊折腾记录 - 佐仔志](https://www.jinbo123.com/8188.html) | 1022 | [IA](https://web.archive.org/web/20241222121758/https://www.jinbo123.com/8188.html) |
-| [2024年的已读书单+观影记录 - 雅余 · 茶余饭后，闲情雅致](https://yayu.net/4764.html) | 1393 | [IA](https://web.archive.org/web/20241231183937/https://yayu.net/4764.html) |
-| [我的 2024 读书总结 - Kyle's Blog](https://kyle.ai/blog/7836.html) | 1693 | [IA](https://web.archive.org/web/20241229161242/https://kyle.ai/blog/7836.html) |
-| [2024 – 2025 跨年博客 - Fatesinger](https://fatesinger.com/103771) | 1107 | [IA](https://web.archive.org/web/20241231184633/https://fatesinger.com/103771) |
-| [2024 · 前路未尽，初心犹在 - 静かな森](https://innei.in/notes/184) | 286 | [IA](https://web.archive.org/web/20241226055206/https://innei.in/notes/184) |
-| [2024 年度总结：从 0 到 1 - 晓林的博客](https://www.peterjxl.com/2024/summary/) | 1729 | [IA](https://web.archive.org/web/20241231182705/https://www.peterjxl.com/2024/summary/#%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99) |
-| [二葉琉璃的2024 - 二葉琉璃の自留地](https://sekaimoe.dpkg123.site/posts/end-of-2024/) | 1725 | [IA](https://web.archive.org/web/20241226144241/https://sekaimoe.dpkg123.site/posts/end-of-2024/) |
-| [2024年终总结 - PPD's blog](https://ppd0705.github.io/post/2024_summary/) | 1611 | [IA](https://web.archive.org/web/20241231053621/https://ppd0705.github.io/post/2024_summary/) |
-| [没有年终总结 - 黑羽的个人博客](https://blog.thetbw.xyz/archives/no-collect-for-this-year) | 1181 | [IA](https://web.archive.org/web/20241231185901/https://blog.thetbw.xyz/archives/no-collect-for-this-year) |
-| [2024 年总结-成长虽晚不迟 - 王大大语录](https://moonwwdz.github.io/post/2024/12-25-2024-summary/) | Null | [AT](https://archive.ph/IXn9N) |
-| [个人春秋2024 - 一派胡言](https://dantezy.xyz/posts/history-2024/) | 769 | [IA](https://web.archive.org/web/20241231190426/https://dantezy.xyz/posts/history-2024/) |
-| [「現実じゃない、言われてしまうかな」 - 湛蓝的调色板](https://blog.nekoq.top/blog/2024) | 1600 | [AT](https://archive.ph/lNzGp) |
-| [2024 年度总结 - Debug客栈](https://blog.debuginn.com/p/debuginn-2024/) | 88 | [IA](https://web.archive.org/web/20241231190258/https://blog.debuginn.com/p/debuginn-2024/) |
-| [2024年总结和Typecho插件 - 刘郎阁](https://vjo.cc/1575) | 2201 | [IA](https://web.archive.org/web/20241231054853/https://vjo.cc/1575) |
-| [小树的 2024 年终总结 - 一颗小树](https://yeshu.cloud/posts/annual-summary-2024/) | 1749 | [IA](https://web.archive.org/web/20241230053321/https://yeshu.cloud/posts/annual-summary-2024/) |
-| [2024 年个人博客回顾 - 雅余 · 茶余饭后，闲情雅致](https://yayu.net/4763.html) | 1393 | [IA](https://web.archive.org/web/20241226144817/https://yayu.net/4763.html) |
-| [2024：而今迈步从头越 - longlin's Blog](https://blog.longlin.tech/posts/summary-2024/) | 2173 | [IA](https://web.archive.org/web/20241227123440/https://blog.longlin.tech/posts/summary-2024/) |
-| [我的2024年度总结 - 小陆ya的工作站](https://www.xlwlgzs.com/archives/wd2024ndzj) | 2195 | [IA](https://web.archive.org/web/20241230091226/https://www.xlwlgzs.com/archives/wd2024ndzj) |
-| [2024干啥了 - Albus' Pensieve - 邓布利多的冥想盆](https://albuspensieve.github.io/2024/12/31/2024-12-31-summary2024/) | 2020 | [IA](https://web.archive.org/web/20241231183605/https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) |
-| [2024 年度总结 - Bingxin Blog](https://blog.byteloid.one/2024/12/29/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 2188 | [IA](https://web.archive.org/web/20241229162508/https://blog.byteloid.one/2024/12/29/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
-| [ 再见2024 · 共赴一场烟火绚烂  - 呓语梦轩](https://blog.awaae001.top/posts/57024.html) | 2192 | [IA](https://web.archive.org/web/20241230090700/https://blog.awaae001.top/posts/57024.html) |
-| [2024: 在夜海中观望浪潮 - Randy's Blog](https://lutaonan.com/blog/2024-summary/) | 64 | [IA](https://web.archive.org/web/20241229161523/https://lutaonan.com/blog/2024-summary/) |
-| [2024：在变与不变之中做一颗不动的石头 - 翰林的小站](https://blog.hanlin.press/2024/12/2024-annual-report/) | 1834 | [IA](https://web.archive.org/web/20241231185755/https://blog.hanlin.press/2024/12/2024-annual-report/) |
-| [2024 年终总结 - 老高的博客](https://blog.mute-g.com/post/work/summary-2024.html) | 249 | [IA](https://web.archive.org/web/20241231190150/https://blog.mute-g.com/post/work/summary-2024.html) |
-| [一年结束的十二月月报 - 码农明明桑](https://isming.me/2024-12-31-december-summary) | 2075 | [IA](https://web.archive.org/web/20241231184448/https://isming.me/2024-12-31-december-summary) |
-| [2024，去码头整点薯条吧 - Magren](https://magren.cc/posts/2024-summary) | 1708 | [IA](https://web.archive.org/web/20241226144710/https://magren.cc/posts/2024-summary) |
-| [2024 小记 - 平凡、机遇、摆烂、向前 - 陵长镜的小博客](https://r1n.top/post/2efcafd.html) | 2199 | [IA](https://web.archive.org/web/20241231054724/https://r1n.top/post/2efcafd.html) |
-| [2024-细细的红线 - Damao](https://damao2250.github.io/2024/12/20/2024-%E7%BB%86%E7%BB%86%E7%9A%84%E7%BA%A2%E7%BA%BF/) | 1132 | [IA](https://web.archive.org/web/20241222122405/https://damao2250.github.io/2024/12/20/2024-%E7%BB%86%E7%BB%86%E7%9A%84%E7%BA%A2%E7%BA%BF/) |
-| [懋和道人 2024 年终总结及未来展望 - 懋和道人](https://www.dao.js.cn/new/2024121411536.shtml) | 2107 | [IA](https://web.archive.org/web/20241215151258/https://www.dao.js.cn/new/2024121411536.shtml) |
-| [2024 年度总结 - Lufs's Blog](https://blog.isteed.cc/post/2024-summary/) | 1257 | [IA](https://web.archive.org/web/20241231184230/https://blog.isteed.cc/post/2024-summary/) |
-| [我的 2024 - Frost's Blog](https://frostming.com/2024/review/) | 1887 | [IA](https://web.archive.org/web/20241224032637/https://frostming.com/2024/review/) |
-| [2024年小结 - Zar_SY - 小屋 ](https://daftneko.com/archives/rewind-2024) | 1932 | [IA](https://web.archive.org/web/20241231183653/https://daftneko.com/archives/rewind-2024) |
-| [抓住2024的尾巴 - 灰常记忆](https://bestcherish.com/zhua-zhu-2024-de-wei-ba.html) | 1105 | [IA](https://web.archive.org/web/20241231184716/https://bestcherish.com/zhua-zhu-2024-de-wei-ba.html) |
-| [My 2@24 - G3rling's Blog](https://g3rling.top/449) | 2113 | [IA](https://web.archive.org/web/20241231183457/https://g3rling.top/449) |
-| [2024 · 素锦流年，绮梦新添 - 疏影横斜](https://hsinyau.com/posts/2024-year-end-summary) | 2174 | [IA](https://web.archive.org/web/20241227190440/https://hsinyau.com/posts/2024-year-end-summary) |
-| [2024，世界一分为二 - Rachel's Blog - Rachel030219](https://blog.rachelt.one/articles/the-world-is-splitting-in-two/) | 897 | [IA](https://web.archive.org/web/20241224161853/https://blog.rachelt.one/articles/the-world-is-splitting-in-two/) |
-| [2024 年度总结 - 寻寻觅觅，思索看往 - 落叶下的记事本](https://lemonkoi.one/posts/life/2024-year-summary) | 2167 | [IA](https://web.archive.org/web/20241224091134/https://lemonkoi.one/posts/life/2024-year-summary) |
-| [2024年终总结 - Redish101 Blog](https://blog.redish101.top/article/2024-summary) | 2191 | [IA](https://web.archive.org/web/20241230090412/https://blog.redish101.top/article/2024-summary) |
-| [漫长的告别 - 大破进击](https://jesor.me/2024/a-long-long-farewell/) | 1036 | [IA](https://web.archive.org/web/20241231185306/https://jesor.me/2024/a-long-long-farewell/) |
-| [2024年终总结 - Tianli's Blog](https://blog.tianli0.top/posts/2024/To2025) | 2194 | [IA](https://web.archive.org/web/20241230091034/https://blog.tianli0.top/posts/2024/To2025) |
-| [2024总结, 顺境出产量-逆境出品质 - 骑行超过牛 个人博客](https://www.chaoniulian.com/blog/2024.html) | 1802 | [IA](https://web.archive.org/web/20241231054007/https://www.chaoniulian.com/blog/2024.html) |
-| [2024 年终总结 - 4Ark](https://4ark.me/posts/2024-12-23-2024-summary/) | 922 | [IA](https://web.archive.org/web/20241231190141/https://4ark.me/posts/2024-12-23-2024-summary/) |
-| [2024 年终，个人设备盘点 - 苏洋博客](https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html) | 485 | [IA](https://web.archive.org/web/20241222122556/https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html) |
-| [繁华 - 2024年终复盘 - 一世繁华](https://blog.hantaotao.top/archives/156/) | 2196 | [IA](https://web.archive.org/web/20241230091457/https://blog.hantaotao.top/archives/156/) |
-| [2024年终总结 与 2025新年展望 - YoungForest's blog](https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/) | 1593 | [IA](https://web.archive.org/web/20241230053458/https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/) |
-| [2024年底总结 - 中年正道：祛魅熵减断舍离 - 黄杰敏的博客](https://www.jiemin.com/archives/1793.html) | 979 | [IA](https://web.archive.org/web/20241231185526/https://www.jiemin.com/archives/1793.html) |
-| [2024，使用房车这一年 - 运维咖啡吧](https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife) | 1461 | [IA](https://web.archive.org/web/20241227081321/https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife) |
 | [我的二零二四 - JiaYin's Life](https://imjiayin.com/5374) | 861 | [IA](https://web.archive.org/web/20241231184137/https://imjiayin.com/5374) |
 | [2024 年末回顧 - 一座島 - 一座島，一個人，一個世界。](https://island.shaform.com/zh/2024/12/30/2024-year-in-review/) | 461 | [IA](https://web.archive.org/web/20241231053006/https://island.shaform.com/zh/2024/12/30/2024-year-in-review/) |
-| [2024年终总结 - Jiajun的编程随想](https://jiajunhuang.com/articles/2024_12_29-bye_2024.md.html) | 146 | [IA](https://web.archive.org/web/20241229161319/https://jiajunhuang.com/articles/2024_12_29-bye_2024.md.html) |
-| [2024 - bang's blog](https://blog.cnbang.net/living/4122/) | 128 | [IA](https://web.archive.org/web/20241231183748/https://blog.cnbang.net/living/4122/) |
-| [2024年终总结 - @Lenciel](https://lenciel.com/2024/12/the-last-day-in-2024/) | 316 | [IA](https://web.archive.org/web/20241231190007/https://lenciel.com/2024/12/the-last-day-in-2024/) |
-| [2024年度总结 - 水八口记 • 记录当下赠与未来](https://shuiba.co/year-report-2024) | 462 | [IA](https://web.archive.org/web/20241230053208/https://shuiba.co/year-report-2024) |
-| [再见2024，你好2025 - 弋牧](https://emuia.com/541.html) | 831 | [IA](https://web.archive.org/web/20241231102657/https://emuia.com/541.html) |
+| [2024 年度总结 - Debug客栈](https://blog.debuginn.com/p/debuginn-2024/) | 88 | [IA](https://web.archive.org/web/20241231190258/https://blog.debuginn.com/p/debuginn-2024/) |
+| [繁华 - 2024年终复盘 - 一世繁华](https://blog.hantaotao.top/archives/156/) | 2196 | [IA](https://web.archive.org/web/20241230091457/https://blog.hantaotao.top/archives/156/) |
 | [2024年年终总结 - 7gugu's Blog](https://7gugu.com/index.php/2024/12/16/2024%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 1110 | [IA](https://web.archive.org/web/20241216062103/https://7gugu.com/index.php/2024/12/16/2024%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) |
-| [2024 年终总结 & 博客一周年 - 皓子的小站 #12](https://howiehz.top/archives/2024-year-in-review) | Null | [IA](https://web.archive.org/web/20241231183347/https://howiehz.top/archives/2024-year-in-review) |
-| [2024年读书总结 - da1234cao](https://www.da1234cao.space/2024%e5%b9%b4%e8%af%bb%e4%b9%a6%e6%80%bb%e7%bb%93/) | 2187 | [IA](https://web.archive.org/web/20241229154026/https://www.da1234cao.space/2024%E5%B9%B4%E8%AF%BB%E4%B9%A6%E6%80%BB%E7%BB%93/) |
-| [2024 年读书记录 - Yiran's Blog](https://zdyxry.github.io/2024/12/31/2024-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) | 243 | [IA](https://web.archive.org/web/20241231053715/https://zdyxry.github.io/2024/12/31/2024-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) |
-| [2024 年度总结 - imba久期 BLOG](https://imba97.cn/archives/795/) | 1585 | [IA](https://web.archive.org/web/20241231164111/https://imba97.cn/archives/795/) |
-| [2024 年度站务总结 - SheepChef Blog](https://shef.cc/2024/12/24/2024-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) | 1742 | [IA](https://web.archive.org/web/20241224140445/https://shef.cc/2024/12/24/2024-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) |
-| [我的 2024 年度总结 - Restent's Notebook](https://blog.gxres.net/posts/2024-annual-summary) | 1768 | [IA](https://web.archive.org/web/20241230221811/https://blog.gxres.net/posts/2024-annual-summary/) |
+| [2024年小结 - Zar_SY - 小屋 ](https://daftneko.com/archives/rewind-2024) | 1932 | [IA](https://web.archive.org/web/20241231183653/https://daftneko.com/archives/rewind-2024) |
+| [咔！𝟐𝟎𝟐4 结束啦~ - HUHU BLOG](https://blog.mwwlzz.top/article/bye2024)| 2186 | [IA](https://web.archive.org/web/20241229153833/https://blog.mwwlzz.top/article/bye2024) |
+| [2024 · 前路未尽，初心犹在 - 静かな森](https://innei.in/notes/184) | 286 | [IA](https://web.archive.org/web/20241226055206/https://innei.in/notes/184) |
+| [总结 2024 - Pig Fang](https://blog.gplane.win/posts/summary-of-2024.html) | 2016 | [IA](https://web.archive.org/web/20241231185421/https://blog.gplane.win/posts/summary-of-2024.html) |
+| [2024年閱讀報告 - ShineKid](https://shinekid.com/2024/12/2024-reading-report/) | 1200 | [IA](https://web.archive.org/web/20241231053843/https://shinekid.com/2024/12/2024-reading-report/) |
+| [2024：而今迈步从头越 - longlin's Blog](https://blog.longlin.tech/posts/summary-2024/) | 2173 | [IA](https://web.archive.org/web/20241227123440/https://blog.longlin.tech/posts/summary-2024/) |
+| [2024年一位中年男人的无聊折腾记录 - 佐仔志](https://www.jinbo123.com/8188.html) | 1022 | [IA](https://web.archive.org/web/20241222121758/https://www.jinbo123.com/8188.html) |
+| [2024 年度总结 - Lufs's Blog](https://blog.isteed.cc/post/2024-summary/) | 1257 | [IA](https://web.archive.org/web/20241231184230/https://blog.isteed.cc/post/2024-summary/) |
+| [YuGA2024年度图书 - Yuko's Blog](https://blog.amamiyayuuko.com/p/my-2024/) | 436 | [IA](https://web.archive.org/web/20241222122654/https://blog.amamiyayuuko.com/p/my-2024/) |
+| [2024 年度书单 - Free Mind](https://freemind.pluskid.org/books/2024-annual-book-list/) | 1300 | [IA](https://web.archive.org/web/20241222121342/https://freemind.pluskid.org/books/2024-annual-book-list/) |
+| [我的 2024 读书总结 - Kyle's Blog](https://kyle.ai/blog/7836.html) | 1693 | [IA](https://web.archive.org/web/20241229161242/https://kyle.ai/blog/7836.html) |
+| [2024 年终总结 - 4Ark](https://4ark.me/posts/2024-12-23-2024-summary/) | 922 | [IA](https://web.archive.org/web/20241231190141/https://4ark.me/posts/2024-12-23-2024-summary/) |
+| [2024年终总结 - 龙窝](https://blog.qiyao.us.kg/posts/9333/) | 2197 | [IA](https://web.archive.org/web/20241230092004/https://blog.qiyao.us.kg/posts/9333/) |
+| [2024·年终 - 子书承宇](https://zishu.is-cool.dev/2024/12/31/212542/) | 2189 | [IA](https://web.archive.org/web/20241230090034/https://zishu.is-cool.dev/2024/12/31/212542/) |
+| [2024 年概览 - Elizen's Blog](https://elizen.me/posts/2024/12/2024-end/) | 534 | [IA](https://web.archive.org/web/20241226143859/https://elizen.me/posts/2024/12/2024-end/) |
+| [2024 年度总结：从 0 到 1 - 晓林的博客](https://www.peterjxl.com/2024/summary/) | 1729 | [IA](https://web.archive.org/web/20241231182705/https://www.peterjxl.com/2024/summary/#%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99) |
+| [2024总结, 顺境出产量-逆境出品质 - 骑行超过牛 个人博客](https://www.chaoniulian.com/blog/2024.html) | 1802 | [IA](https://web.archive.org/web/20241231054007/https://www.chaoniulian.com/blog/2024.html) |
 | [2024 年度回顾 - Platform Thinking +](https://pt.plus/2024-year-in-review/) | 429 | [IA](https://web.archive.org/web/20241231053953/https://pt.plus/2024-year-in-review/) |
-| [RECAP2024：胶卷中的一年 - CLCK's Space](https://www.clckblog.space/blog/recap-2024/) | 2169 | [IA](https://web.archive.org/web/20241226054154/https://www.clckblog.space/blog/recap-2024/) |
-| [2024年股市小记 - 夜未央](https://www.savouer.com/9132.html) | 1399 | [IA](https://web.archive.org/web/20241231102829/https://www.savouer.com/9132.html) |
-| [2024 ·年度回顾 - 印记](https://yinji.org/5383.html) | 1712 | [IA](https://web.archive.org/web/20241229160720/https://yinji.org/5383.html) |
+| [“用我们，布满伤痕的双手”-夏鸢的2024年度总结 – 小夏鸢的波子汽水店](https://me.owo.today/2024/12/31/2024-year-end-summary/) | 1724 | [IA](https://web.archive.org/web/20241231191336/https://me.owo.today/2024/12/31/2024-year-end-summary/) |
+| [二葉琉璃的2024 - 二葉琉璃の自留地](https://sekaimoe.dpkg123.site/posts/end-of-2024/) | 1725 | [IA](https://web.archive.org/web/20241226144241/https://sekaimoe.dpkg123.site/posts/end-of-2024/) |
+| [2024 - bang's blog](https://blog.cnbang.net/living/4122/) | 128 | [IA](https://web.archive.org/web/20241231183748/https://blog.cnbang.net/living/4122/) |
+| [2024 年终，个人设备盘点 - 苏洋博客](https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html) | 485 | [IA](https://web.archive.org/web/20241222122556/https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html) |
+| [我的 2024 - 251 的魔法实验室](https://blog.251.sh/oh-my-2024) | 552 | [IA](https://web.archive.org/web/20241222121109/https://blog.251.sh/oh-my-2024) |
+| [#1214 YouTube Music 已经出了年度总结了 - jz's rambling on jz's rambles](https://ramble.imzh.me/1214/) | 2095 | [IA](https://web.archive.org/web/20241211082223/https://ramble.imzh.me/1214/) |
 | [2024 年度购物之最 - 椒盐豆豉](https://blog.douchi.space/shopping-2024/#gsc.tab=0) | 2097 | [IA](https://web.archive.org/web/20241129172054/https://blog.douchi.space/shopping-2024/#gsc.tab=0) |
+| [我的 2024 年 - sjdhome blog](https://www.sjdhome.com/blog/post/my-2024/) | 1652 | [IA](https://web.archive.org/web/20241231102645/https://www.sjdhome.com/blog/post/my-2024/) |
+| [2024 年度站务总结 - SheepChef Blog](https://shef.cc/2024/12/24/2024-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) | 1742 | [IA](https://web.archive.org/web/20241224140445/https://shef.cc/2024/12/24/2024-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) |
+| [2024年年度总结 - Kivinsae's Nest](https://www.kivinsae.com/2024/12/29/2024-12-31-Summary/) | 1899 | [IA](https://web.archive.org/web/20241229160822/https://www.kivinsae.com/2024/12/29/2024-12-31-Summary/) |
+| [2024干啥了 - Albus' Pensieve - 邓布利多的冥想盆](https://albuspensieve.github.io/2024/12/31/2024-12-31-summary2024/) | 2020 | [IA](https://web.archive.org/web/20241231183605/https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) |
+| [平淡幸福的2024 - Frank笔记](https://frank2019.me/archives/ping-dan-xing-fu-de-2024) | 1038 | [IA](https://web.archive.org/web/20241226144128/https://frank2019.me/archives/ping-dan-xing-fu-de-2024) |
 | [2024 总结--匮乏与滑落 - Motion Slow](https://www.icey.one/2024-review/) | 1296 | [IA](https://web.archive.org/web/20241231184921/https://www.icey.one/2024-review/) |
+| [2024年终总结 与 2025新年展望 - YoungForest's blog](https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/) | 1593 | [IA](https://web.archive.org/web/20241230053458/https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/) |
+| [2024 小记 - 平凡、机遇、摆烂、向前 - 陵长镜的小博客](https://r1n.top/post/2efcafd.html) | 2199 | [IA](https://web.archive.org/web/20241231054724/https://r1n.top/post/2efcafd.html) |
+| [2024 – 2025 跨年博客 - Fatesinger](https://fatesinger.com/103771) | 1107 | [IA](https://web.archive.org/web/20241231184633/https://fatesinger.com/103771) |
+| [2024年终总结 - PPD's blog](https://ppd0705.github.io/post/2024_summary/) | 1611 | [IA](https://web.archive.org/web/20241231053621/https://ppd0705.github.io/post/2024_summary/) |
+| [2024年度总结 - 水八口记 • 记录当下赠与未来](https://shuiba.co/year-report-2024) | 462 | [IA](https://web.archive.org/web/20241230053208/https://shuiba.co/year-report-2024) |
+| [没有年终总结 - 黑羽的个人博客](https://blog.thetbw.xyz/archives/no-collect-for-this-year) | 1181 | [IA](https://web.archive.org/web/20241231185901/https://blog.thetbw.xyz/archives/no-collect-for-this-year) |
+| [2024年总结 - ddadaal.me](https://ddadaal.me/articles/summary-for-2024/cn) | 400 | [IA](https://web.archive.org/web/20241231184331/https://ddadaal.me/articles/summary-for-2024/cn) |
 | [2024年回顾 - 竹炉山房](https://synyan.cn/t/50110) | 1125 | [IA](https://web.archive.org/web/20241230053551/https://synyan.cn/t/50110) |
+| [2024，去码头整点薯条吧 - Magren](https://magren.cc/posts/2024-summary) | 1708 | [IA](https://web.archive.org/web/20241226144710/https://magren.cc/posts/2024-summary) |
+| [2024年终总结：又到一年年终的时候，今年的你过的好吗？ - 蓝卡](https://www.lanka.cn/2025_4722.html) | 216 | [IA](https://web.archive.org/web/20241222121843/https://www.lanka.cn/2025_4722.html) |
+| [2024 年个人博客回顾 - 雅余 · 茶余饭后，闲情雅致](https://yayu.net/4763.html) | 1393 | [IA](https://web.archive.org/web/20241226144817/https://yayu.net/4763.html) |
+| [2024年总结和Typecho插件 - 刘郎阁](https://vjo.cc/1575) | 2201 | [IA](https://web.archive.org/web/20241231054853/https://vjo.cc/1575) |
+| [2024，使用房车这一年 - 运维咖啡吧](https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife) | 1461 | [IA](https://web.archive.org/web/20241227081321/https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife) |
+| [2024 年终总结：Agent、AI Infra 与 Coding - 高策](http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2024) | 1606 | [IA](https://web.archive.org/web/20241229161827/http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2024) |
+| [2024年终总结 - @Lenciel](https://lenciel.com/2024/12/the-last-day-in-2024/) | 316 | [IA](https://web.archive.org/web/20241231190007/https://lenciel.com/2024/12/the-last-day-in-2024/) |
+| [2024年底总结 - 中年正道：祛魅熵减断舍离 - 黄杰敏的博客](https://www.jiemin.com/archives/1793.html) | 979 | [IA](https://web.archive.org/web/20241231185526/https://www.jiemin.com/archives/1793.html) |
+| [漫长的告别 - 大破进击](https://jesor.me/2024/a-long-long-farewell/) | 1036 | [IA](https://web.archive.org/web/20241231185306/https://jesor.me/2024/a-long-long-farewell/) |
+| [2024 年度总结 - 寻寻觅觅，思索看往 - 落叶下的记事本](https://lemonkoi.one/posts/life/2024-year-summary) | 2167 | [IA](https://web.archive.org/web/20241224091134/https://lemonkoi.one/posts/life/2024-year-summary) |
+| [RECAP2024：胶卷中的一年 - CLCK's Space](https://www.clckblog.space/blog/recap-2024/) | 2169 | [IA](https://web.archive.org/web/20241226054154/https://www.clckblog.space/blog/recap-2024/) |
+| [再见2024，你好2025 - 弋牧](https://emuia.com/541.html) | 831 | [IA](https://web.archive.org/web/20241231102657/https://emuia.com/541.html) |
+| [2024 年终总结 - 咸糖 - 自律者自由](https://vim0.com/post/2024_recap/) | 894 | [IA](https://web.archive.org/web/20241211080200/https://vim0.com/post/2024_recap/) |
+| [个人春秋2024 - 一派胡言](https://dantezy.xyz/posts/history-2024/) | 769 | [IA](https://web.archive.org/web/20241231190426/https://dantezy.xyz/posts/history-2024/) |
+| [2024总结 - slince Blog](https://slince-zero.github.io/posts/2024/12/31/2024%E6%80%BB%E7%BB%93.html) | 1612 | [IA](https://web.archive.org/web/20241231184805/https://slince-zero.github.io/posts/2024/12/31/2024%E6%80%BB%E7%BB%93.html) |
+| [2024 年终总结 - 老高的博客](https://blog.mute-g.com/post/work/summary-2024.html) | 249 | [IA](https://web.archive.org/web/20241231190150/https://blog.mute-g.com/post/work/summary-2024.html) |
+| [懋和道人 2024 年终总结及未来展望 - 懋和道人](https://www.dao.js.cn/new/2024121411536.shtml) | 2107 | [IA](https://web.archive.org/web/20241215151258/https://www.dao.js.cn/new/2024121411536.shtml) |
+| [2024 年总结-成长虽晚不迟 - 王大大语录](https://moonwwdz.github.io/post/2024/12-25-2024-summary/) | Null | [AT](https://archive.ph/IXn9N) |
+| [2024 ·年度回顾 - 印记](https://yinji.org/5383.html) | 1712 | [IA](https://web.archive.org/web/20241229160720/https://yinji.org/5383.html) |
+| [My 2@24 - G3rling's Blog](https://g3rling.top/449) | 2113 | [IA](https://web.archive.org/web/20241231183457/https://g3rling.top/449) |
+| [回望2024，展望2025 - Cameron Chen's Life](https://camerongo.top/index.php/archives/3/) | 2198 | [IA](https://web.archive.org/web/20241230133021/https://camerongo.top/index.php/archives/3/) |
+| [2024 Recap - Ursa Major](http://elfile4138.moe/2024/12/2024-Recap/) | 1625 | [IA](https://web.archive.org/web/20241230133428/https://elfile4138.moe/2024/12/2024-Recap/) |
+| [年终总结 2024 - 米随随 s5s5 ](https://s5s5.me/4244) | 1130 | [IA](https://web.archive.org/web/20241231185642/https://s5s5.me/4244) |
+| [一年结束的十二月月报 - 码农明明桑](https://isming.me/2024-12-31-december-summary) | 2075 | [IA](https://web.archive.org/web/20241231184448/https://isming.me/2024-12-31-december-summary) |
+| [2024 年读书记录 - Yiran's Blog](https://zdyxry.github.io/2024/12/31/2024-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) | 243 | [IA](https://web.archive.org/web/20241231053715/https://zdyxry.github.io/2024/12/31/2024-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) |
+| [2024 岁末总结 - 苏洋博客](https://soulteary.com/2024/12/31/2024-year-end-summary.html) | 485 | [IA](https://web.archive.org/web/20241231184057/https://soulteary.com/2024/12/31/2024-year-end-summary.html) |
+| [2024年终 - 青竹](https://estertion.win/2024/12/2024%E5%B9%B4%E7%BB%88/) | 1825 | [IA](https://web.archive.org/web/20241231053524/https://estertion.win/2024/12/2024%E5%B9%B4%E7%BB%88/) |
+| [2024 年度总结 - imba久期 BLOG](https://imba97.cn/archives/795/) | 1585 | [IA](https://web.archive.org/web/20241231164111/https://imba97.cn/archives/795/) |
+| [写在2025——岁月静好 - New Youth](https://bestcoder.cn/2025-2) | 1734 | [IA](https://web.archive.org/web/20241226144543/https://bestcoder.cn/2025-2) |
+| [2024年终总结 - Tianli's Blog](https://blog.tianli0.top/posts/2024/To2025) | 2194 | [IA](https://web.archive.org/web/20241230091034/https://blog.tianli0.top/posts/2024/To2025) |
+| [ 再见2024 · 共赴一场烟火绚烂  - 呓语梦轩](https://blog.awaae001.top/posts/57024.html) | 2192 | [IA](https://web.archive.org/web/20241230090700/https://blog.awaae001.top/posts/57024.html) |
+| [2024年读书小结 - 夜未央](https://www.savouer.com/9127.html) | 1399 | [IA](https://web.archive.org/web/20241226144408/https://www.savouer.com/9127.html) |
+| [2024年总结 - 满心记](https://qq.mba/206.html) | 2200 | [IA](https://web.archive.org/web/20241231054647/https://qq.mba/206.html) |
+| [2024，世界一分为二 - Rachel's Blog - Rachel030219](https://blog.rachelt.one/articles/the-world-is-splitting-in-two/) | 897 | [IA](https://web.archive.org/web/20241224161853/https://blog.rachelt.one/articles/the-world-is-splitting-in-two/) |
+| [2024年的尾巴，冒泡推歌 -  kn007的个人博客](https://kn007.net/topics/the-tail-end-of-2024-say-hello-to-everyone/) | 1552 | [IA](https://web.archive.org/web/20241211080938/https://kn007.net/topics/the-tail-end-of-2024-say-hello-to-everyone/) |
+| [2024年终总结 - Redish101 Blog](https://blog.redish101.top/article/2024-summary) | 2191 | [IA](https://web.archive.org/web/20241230090412/https://blog.redish101.top/article/2024-summary) |
+| [2024 年终总结：夜空中点点繁星 - 落雨宸的时光机](https://blog.lzc256.com/posts/summary-2024/) | 2202 | [IA](https://web.archive.org/web/20241231192141/https://blog.lzc256.com/posts/summary-2024/) |
+| [2024 年终总结 & 博客一周年 - 皓子的小站 #12](https://howiehz.top/archives/2024-year-in-review) | Null | [IA](https://web.archive.org/web/20241231183347/https://howiehz.top/archives/2024-year-in-review) |
+| [2024年终极简总结 - 闲趣日评](https://yufm.com/661819.html) | 362 | [IA](https://web.archive.org/web/20241231102739/https://yufm.com/661819.html) |
+| [今年黑五，我買了什麼？2024 工作桌面總結 - 雷蒙三十](https://raymondhouch.com/unboxing/2024-desksetup/) | 1809 | [IA](https://web.archive.org/web/20241211081445/https://raymondhouch.com/unboxing/2024-desksetup/) |
+| [2024年的已读书单+观影记录 - 雅余 · 茶余饭后，闲情雅致](https://yayu.net/4764.html) | 1393 | [IA](https://web.archive.org/web/20241231183937/https://yayu.net/4764.html) |
+| [小树的 2024 年终总结 - 一颗小树](https://yeshu.cloud/posts/annual-summary-2024/) | 1749 | [IA](https://web.archive.org/web/20241230053321/https://yeshu.cloud/posts/annual-summary-2024/) |
+| [2024年度回顾 - 海阔天空的云](https://www.hktkdy.com/2024/12/20/2024/2024/) | 1714 | [IA](https://web.archive.org/web/20241222121533/https://www.hktkdy.com/2024/12/20/2024/2024/) |
+| [2024 年终总结 - victoryang00’ blog](https://asplos.dev/wordpress/2024/08/19/2024-nian-zhong-zong-jie/) | 1597 | [IA](https://web.archive.org/web/20241231190331/https://asplos.dev/wordpress/2024/08/19/2024-nian-zhong-zong-jie/) |
+| [2024 年度总结 - 阿猫的博客](https://ameow.xyz/archives/2024-wrapup) | 1744 | [IA](https://web.archive.org/web/20241231053405/https://ameow.xyz/archives/2024-wrapup) |
+| [2024年终总结 - Jiajun的编程随想](https://jiajunhuang.com/articles/2024_12_29-bye_2024.md.html) | 146 | [IA](https://web.archive.org/web/20241229161319/https://jiajunhuang.com/articles/2024_12_29-bye_2024.md.html) |
+| [📖 2024 阅读记录 - 61's life](https://61.life/2024/books) | 314 | [IA](https://web.archive.org/web/20241229161711/https://61.life/2024/books) |
+| [2024：在变与不变之中做一颗不动的石头 - 翰林的小站](https://blog.hanlin.press/2024/12/2024-annual-report/) | 1834 | [IA](https://web.archive.org/web/20241231185755/https://blog.hanlin.press/2024/12/2024-annual-report/) |
+| [2024: 在夜海中观望浪潮 - Randy's Blog](https://lutaonan.com/blog/2024-summary/) | 64 | [IA](https://web.archive.org/web/20241229161523/https://lutaonan.com/blog/2024-summary/) |
+| [2024-细细的红线 - Damao](https://damao2250.github.io/2024/12/20/2024-%E7%BB%86%E7%BB%86%E7%9A%84%E7%BA%A2%E7%BA%BF/) | 1132 | [IA](https://web.archive.org/web/20241222122405/https://damao2250.github.io/2024/12/20/2024-%E7%BB%86%E7%BB%86%E7%9A%84%E7%BA%A2%E7%BA%BF/) |
+| [2024 · 素锦流年，绮梦新添 - 疏影横斜](https://hsinyau.com/posts/2024-year-end-summary) | 2174 | [IA](https://web.archive.org/web/20241227190440/https://hsinyau.com/posts/2024-year-end-summary) |
+| [2024 – 2025 - 非理勿试](https://www.ntiy.com/2257.html) | 1039 | [IA](https://web.archive.org/web/20241231102504/https://www.ntiy.com/2257.html) |
+| [关于我在2024年做了这件事... - 叶泯希](https://ymxblog.us.kg/posts/3749d309.html) | 2193 | [IA](https://web.archive.org/web/20241230090857/https://ymxblog.us.kg/posts/3749d309.html) |
+| [2024 年终总结 - UsubeniFantasy](https://ssshooter.com/2024-summary/) | 158 | [IA](https://web.archive.org/web/20241231184534/https://ssshooter.com/2024-summary/) |
+| [我的 2024 年度总结 - Restent's Notebook](https://blog.gxres.net/posts/2024-annual-summary) | 1768 | [IA](https://web.archive.org/web/20241230221811/https://blog.gxres.net/posts/2024-annual-summary/) |
+| [我的2024年度总结 - 小陆ya的工作站](https://www.xlwlgzs.com/archives/wd2024ndzj) | 2195 | [IA](https://web.archive.org/web/20241230091226/https://www.xlwlgzs.com/archives/wd2024ndzj) |
+| [我的 2024 - Frost's Blog](https://frostming.com/2024/review/) | 1887 | [IA](https://web.archive.org/web/20241224032637/https://frostming.com/2024/review/) |
+| [2024年读书总结 - da1234cao](https://www.da1234cao.space/2024%e5%b9%b4%e8%af%bb%e4%b9%a6%e6%80%bb%e7%bb%93/) | 2187 | [IA](https://web.archive.org/web/20241229154026/https://www.da1234cao.space/2024%E5%B9%B4%E8%AF%BB%E4%B9%A6%E6%80%BB%E7%BB%93/) |
+| [2024年股市小记 - 夜未央](https://www.savouer.com/9132.html) | 1399 | [IA](https://web.archive.org/web/20241231102829/https://www.savouer.com/9132.html) |
+| [2024 年度总结 - Frange Zone](https://frangezone.github.io/2024/12/30/2024-summary/) | 1495 | [IA](https://web.archive.org/web/20241230221721/https://frangezone.github.io/2024/12/30/2024-summary/) |
+| [2024年终总结 - 主打求稳 - Deepzz's Blog](https://deepzz.com/post/2024-year-end.html) | 188 | [IA](https://web.archive.org/web/20241231183839/https://deepzz.com/post/2024-year-end.html) |
+| [「現実じゃない、言われてしまうかな」 - 湛蓝的调色板](https://blog.nekoq.top/blog/2024) | 1600 | [AT](https://archive.ph/lNzGp) |
+| [2024年终总结 - Joe's Blog](https://hijiangtao.github.io/2024/12/31/Letter-to-2024/) | 269 | [IA](https://web.archive.org/web/20241231053411/https://hijiangtao.github.io/2024/12/31/Letter-to-2024/) |
+| [2024，再见-2024总结 - 可执行程序の天境小屋🥝](https://hanta.us.kg/2024/12/29/2024%EF%BC%8C%E5%86%8D%E8%A7%81-2024%E6%80%BB%E7%BB%93/) | 2190 | [IA](https://web.archive.org/web/20241230090310/https://hanta.us.kg/2024/12/29/2024%EF%BC%8C%E5%86%8D%E8%A7%81-2024%E6%80%BB%E7%BB%93/) |
+| [2024 年度总结 - Bingxin Blog](https://blog.byteloid.one/2024/12/29/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 2188 | [IA](https://web.archive.org/web/20241229162508/https://blog.byteloid.one/2024/12/29/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
+| [抓住2024的尾巴 - 灰常记忆](https://bestcherish.com/zhua-zhu-2024-de-wei-ba.html) | 1105 | [IA](https://web.archive.org/web/20241231184716/https://bestcherish.com/zhua-zhu-2024-de-wei-ba.html) |
+| [2024跋 - 停云馆](https://blog.yizhou.ac.cn/posts/2024%E8%B7%8B/) | 2138 | [IA](https://web.archive.org/web/20241231185131/https://blog.yizhou.ac.cn/posts/2024%E8%B7%8B/) |
