@@ -72,3 +72,8 @@
 | [2024 小记 - 平凡、机遇、摆烂、向前 - 陵长镜的小博客](https://r1n.top/post/2efcafd.html) | 2199 | [IA](https://web.archive.org/web/20241231054724/https://r1n.top/post/2efcafd.html) |
 | [2024年总结 - 满心记](https://qq.mba/206.html) | 2200 | [IA](https://web.archive.org/web/20241231054647/https://qq.mba/206.html) |
 | [2024年总结和Typecho插件 - 刘郎阁](https://vjo.cc/1575) | 2201 | [IA](https://web.archive.org/web/20241231054853/https://vjo.cc/1575) |
+| [2024 – 2025 - 非理勿试](https://www.ntiy.com/2257.html) | 1039 | [IA](https://web.archive.org/web/20241231102504/https://www.ntiy.com/2257.html) |
+| [再见2024，你好2025 - 弋牧](https://emuia.com/541.html) | 831 | [IA](https://web.archive.org/web/20241231102657/https://emuia.com/541.html) |
+| [我的 2024 年 - sjdhome blog](https://www.sjdhome.com/blog/post/my-2024/) | 1652 | [IA](https://web.archive.org/web/20241231102645/https://www.sjdhome.com/blog/post/my-2024/) |
+| [2024年终极简总结 - 闲趣日评](https://yufm.com/661819.html) | 362 | [IA](https://web.archive.org/web/20241231102739/https://yufm.com/661819.html) |
+| [2024年股市小记 - 夜未央](https://www.savouer.com/9132.html) | 1399 | [IA](https://web.archive.org/web/20241231102829/https://www.savouer.com/9132.html) |
