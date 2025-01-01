@@ -121,3 +121,4 @@
 | [2024 年终总结 - Hans362 's Blog](https://blog.hans362.cn/post/2024-annual-report/) | 1719 | [IA](https://web.archive.org/web/20241231210153/https://blog.hans362.cn/post/2024-annual-report/) |
 | [2024 年末回顾 - 不完美的日子 - Pseudoyu](https://www.pseudoyu.com/zh/2024/12/31/yearly_review_2024/) | 1458 | [IA](https://web.archive.org/web/20241231210244/https://www.pseudoyu.com/zh/2024/12/31/yearly_review_2024/) |
 | [2025新年随想 - 云云众生](https://yylives.cc/2025/01/01/happy-new-year-2025/) | 2134 | [IA](https://web.archive.org/web/20250101004330/https://yylives.cc/2025/01/01/happy-new-year-2025/) |
+| [2024 年度总结 - 新城旧梦](https://www.itxcjm.top/317/) |  | [IA](https://megalodon.jp/2025-0101-1310-54/itxcjm.top/317/) |
