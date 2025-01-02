@@ -150,3 +150,7 @@
 | [2024 年年终总结 - 学无止境@一点一滴](https://www.gtdstudy.com/posts/summary-2024/) | 1034 | [IA](https://web.archive.org/web/20250102040514/https://www.gtdstudy.com/posts/summary-2024/) |
 | [2025新年随想 - 云云众生](https://yylives.cc/2025/01/01/happy-new-year-2025/) | 2134 | [IA](https://web.archive.org/web/20250102040710/https://yylives.cc/2025/01/01/happy-new-year-2025/) |
 | [2024年总结 - Bboysoul's Blog](https://www.bboy.app/2025/01/02/2024%E5%B9%B4%E6%80%BB%E7%BB%93/) | 760 | [IA](https://web.archive.org/web/20250102083854/https://www.bboy.app/2025/01/02/2024%E5%B9%B4%E6%80%BB%E7%BB%93/) |
+| [年终回顾 - 拾风](https://www.leolin86.com/?p=3509) | 837 | [IA](https://web.archive.org/web/20250102132620/https://www.leolin86.com/?p=3509) |
+| [波澜起伏的2024 - 醉乐轩](https://behappy.cc/life/2024-final/) | 1111 | [IA](https://web.archive.org/web/20250102132553/https://behappy.cc/life/2024-final/) |
+| [2024年终总结 - Homura's Blog](https://homura.live/2025/01/01/Summary/summary-2024/) | 2209 | [IA](https://web.archive.org/web/20250102132925/https://homura.live/2025/01/01/Summary/summary-2024/) |
+| [2024 年终总结 - Hyoban](https://hyoban.xlog.app/review-2024) | 2210 | [IA](https://web.archive.org/web/20250102133042/https://hyoban.xlog.app/review-2024) |
