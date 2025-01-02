@@ -154,3 +154,4 @@
 | [波澜起伏的2024 - 醉乐轩](https://behappy.cc/life/2024-final/) | 1111 | [IA](https://web.archive.org/web/20250102132553/https://behappy.cc/life/2024-final/) |
 | [2024年终总结 - Homura's Blog](https://homura.live/2025/01/01/Summary/summary-2024/) | 2209 | [IA](https://web.archive.org/web/20250102132925/https://homura.live/2025/01/01/Summary/summary-2024/) |
 | [2024 年终总结 - Hyoban](https://hyoban.xlog.app/review-2024) | 2210 | [IA](https://web.archive.org/web/20250102133042/https://hyoban.xlog.app/review-2024) |
+| [2024 年终总结 - 柏园猫のBlog](https://nekomoe.xyz/index.html?type=article&filename=2024-summary.md) | 1649 | [IA](https://web.archive.org/web/20250102162956/https://nekomoe.xyz/?type=article&filename=2024-summary.md) | 
