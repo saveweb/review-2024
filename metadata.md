@@ -155,3 +155,11 @@
 | [2024年终总结 - Homura's Blog](https://homura.live/2025/01/01/Summary/summary-2024/) | 2209 | [IA](https://web.archive.org/web/20250102132925/https://homura.live/2025/01/01/Summary/summary-2024/) |
 | [2024 年终总结 - Hyoban](https://hyoban.xlog.app/review-2024) | 2210 | [IA](https://web.archive.org/web/20250102133042/https://hyoban.xlog.app/review-2024) |
 | [2024 年终总结 - 柏园猫のBlog](https://nekomoe.xyz/index.html?type=article&filename=2024-summary.md) | 1649 | [IA](https://web.archive.org/web/20250102162956/https://nekomoe.xyz/?type=article&filename=2024-summary.md) | 
+| [我的 2024 年终总结 - 無意識の桜](https://koishi514.moe/blog/bbg/index.html?type=article&filename=8YkDYKfG5wDN.md) | 2211 | [IA](https://web.archive.org/web/20250102163612/https://koishi514.moe/blog/bbg/index.html?type=article&filename=8YkDYKfG5wDN.md) |
+| [2024年度总结 - chihuo2104の部落格](https://blog.chihuo2104.dev/posts/goodbye-2024) | 2212 | [IA](https://web.archive.org/web/20250102163837/https://blog.chihuo2104.dev/posts/goodbye-2024) |
+| [Y2025班次冬日列车 - 反応蒸留](https://blog.mjt.asia/posts/bc0e860c/) | 2213 | [IA](https://web.archive.org/web/20250102164018/https://blog.mjt.asia/posts/bc0e860c/) |
+| [碎记•向明年的自己招个手 - 洛仙璃の幻梦](https://mzwing.eu.org/index.html?type=article&filename=wave-to-my-future-self.md) | 2214 | [IA](https://web.archive.org/web/20250102164123/https://mzwing.eu.org/index.html?type=article&filename=wave-to-my-future-self.md) |
+| [2024年终总结 - zzjzxq33's blog](https://blog.akuamar1n.com/2024/12/31/2024-summary/) | 2215 | [IA](https://web.archive.org/web/20250102164358/https://blog.akuamar1n.com/2024/12/31/2024-summary/) |
+| [辞旧迎新：Ray 的 2024 年终总结 - Ray's xLog](https://xlog.mk1.io/goodbye-2024) | 2216 | [IA](https://web.archive.org/web/20250102164425/https://xlog.mk1.io/goodbye-2024) |
+| [年终总结2024 - 摩尔の镇 - モル·町](https://www.mole9630.top/year-end-2024/) | 2217 | [IA](https://web.archive.org/web/20250102164558/https://www.mole9630.top/year-end-2024/) |
+| [2024年度总结 - CC米饭的小世界](https://world.ccrice.com/2024/12/25/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 2218 | [IA](https://web.archive.org/web/20250102164646/https://world.ccrice.com/2024/12/25/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
