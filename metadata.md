@@ -126,3 +126,26 @@
 | [【日常】2024年度总结 - 小竹の笔记本](https://notes.smallbamboo.cn/2024year-end-review.html) | 2207 | [IA](https://web.archive.org/web/20250101054909/https://notes.smallbamboo.cn/2024year-end-review.html) |
 | [关于这一年的事情·2024年度记忆](https://rzi.me/read-2096.html) | 2208 | [IA](https://web.archive.org/web/20250102033844/https://rzi.me/read-2096.html) |
 | [抓住2024年的尾巴写一份年终总结吧 - 陶小桃Blog](https://www.52txr.cn/2024/2024conclusion.html) | Null | [IA](https://web.archive.org/web/20250102033859/https://www.52txr.cn/2024/2024conclusion.html) |
+| [2024 小事回顧 - chungkin Express](https://ckxpress.com/2024) | 2205 | [IA](https://web.archive.org/web/20250102034616/https://ckxpress.com/2024/) |
+| [2024年: 生活比工作忙, 又混/活了一年, 打工是挣不到钱的 - 小赖子的英国生活和资讯](https://justyy.com/archives/67216) | 793 | [IA](https://web.archive.org/web/20250102034727/https://justyy.com/archives/67216) |
+| [年终 - 突然就又到了写年终总结的日子 - 小球飞鱼](https://mantyke.icu/weekly/2025/2024-goodbye/) | 1688 | [IA](https://web.archive.org/web/20250102034845/https://mantyke.icu/weekly/2025/2024-goodbye/) |
+| [2024年的总结 - 顾宇的研习笔记](https://www.guyu.me/blog/2025/2025-01-01-annual-review/) | 303 | [IA](https://web.archive.org/web/20250102034923/https://www.guyu.me/blog/2025/2025-01-01-annual-review/) |
+| [2024年终总结 - Yunfeng's Simple Blog](http://vra.github.io/2024/12/31/summary-2024/) | 1465 | [IA](https://web.archive.org/web/20250102035016/https://vra.github.io/2024/12/31/summary-2024/) |
+| [2024 年个人总结 - 唐巧的博客](https://blog.devtang.com/2025/01/01/2024-summary/) | 115 | [IA](https://web.archive.org/web/20250102035112/https://blog.devtang.com/2025/01/01/2024-summary/) |
+| [2024年的年终总结：转变与沉淀 - iTimothy](https://xiaozhou.net/2024-summary-2025-01-01.html) | 65 | [IA](https://web.archive.org/web/20250102035159/https://xiaozhou.net/2024-summary-2025-01-01.html) |
+| [大致是个 2024 年度总结 - MBRjun-Blog](https://www.mbrjun.cn/archives/500/) | 1743 | [IA](https://web.archive.org/web/20250102035353/https://www.mbrjun.cn/archives/500/) |
+| [坚韧与成长的2024年 - 沈唁志](https://qq52o.me/2850.html) | 722 | [IA](https://web.archive.org/web/20250102035421/https://qq52o.me/2850.html) |
+| [My 2024 - chaomai's blog](http://chaomai.github.io/2024/2024-12-31-end/) | 951 | [IA](https://web.archive.org/web/20250102035512/http://chaomai.github.io/2024/2024-12-31-end/) |
+| [2024 年终总结 - Situ Note](https://situ2001.com/blog/2024-summary/) | 1716 | [IA](https://web.archive.org/web/20250102035722/https://situ2001.com/blog/2024-summary/) |
+| [年终总结 - Mayx的博客](https://mabbs.github.io/2025/01/01/summary.html) | 326 | [IA](https://web.archive.org/web/20250102035632/https://mabbs.github.io/2025/01/01/summary.html) |
+| [2024 年终小结 🦫 - Henry Z's blog](https://changchen.me/blog/20250101/2024_summary/) | 2132 | [IA](https://web.archive.org/web/20250102035711/https://changchen.me/blog/20250101/2024_summary/) |
+| [转折2024 - 安志合的学习博客](https://chegva.com/6246.html) | 414 | [IA](https://web.archive.org/web/20250102035808/https://chegva.com/6246.html) |
+| [2024总结 并 2025规划 - 桑弧蓬矢射四方](https://iphyer.github.io/blog/2024/12/31/2024SummaryAND2025Plan/) | 224 | [IA](https://web.archive.org/web/20250102035859/https://iphyer.github.io/blog/2024/12/31/2024SummaryAND2025Plan/) |
+| [我的 2024 - Panda Home](https://old-panda.com/2024/12/31/my-2024/) | 214 | [IA](https://web.archive.org/web/20250102035951/https://old-panda.com/2024/12/31/my-2024/) |
+| [佳 2024 - 素生](http://z.arlmy.me/posts/YearlyBest/YearlyBest_2024/) | 272 | [IA](https://web.archive.org/web/20250102040033/https://z.arlmy.me/posts/YearlyBest/YearlyBest_2024/) |
+| [谜底 2024 - 61's life](https://61.life/2025/review) | 314 | [IA](https://web.archive.org/web/20250102040130/https://61.life/2025/review) |
+| [2024 年终总结 - Cubik的小站](https://www.cubik65536.top/2024-YearlySummary/) | 1466 | [IA](https://web.archive.org/web/20250102040222/https://www.cubik65536.top/2024-YearlySummary/) |
+| [2025年展望 - Ethan's Blog](https://ethan-phu.github.io/2025%E5%B9%B4%E5%B1%95%E6%9C%9B/) | 1436 | [IA](https://web.archive.org/web/20250102040311/http://ethan.js.cool/2025%E5%B9%B4%E5%B1%95%E6%9C%9B/) |
+| [2024年度总结：AI原来能这么好用 - Mumulhl's Blog](https://mumulhl.eu.org/p/2024-year-in-review/) | 1833 | [IA](https://web.archive.org/web/20250102040450/https://mumulhl.eu.org/p/2024-year-in-review/) |
+| [2024 年年终总结 - 学无止境@一点一滴](https://www.gtdstudy.com/posts/summary-2024/) | 1034 | [IA](https://web.archive.org/web/20250102040514/https://www.gtdstudy.com/posts/summary-2024/) |
+| [2025新年随想 - 云云众生](https://yylives.cc/2025/01/01/happy-new-year-2025/) | 2134 | [IA](https://web.archive.org/web/20250102040710/https://yylives.cc/2025/01/01/happy-new-year-2025/) |
