@@ -149,3 +149,4 @@
 | [2024年度总结：AI原来能这么好用 - Mumulhl's Blog](https://mumulhl.eu.org/p/2024-year-in-review/) | 1833 | [IA](https://web.archive.org/web/20250102040450/https://mumulhl.eu.org/p/2024-year-in-review/) |
 | [2024 年年终总结 - 学无止境@一点一滴](https://www.gtdstudy.com/posts/summary-2024/) | 1034 | [IA](https://web.archive.org/web/20250102040514/https://www.gtdstudy.com/posts/summary-2024/) |
 | [2025新年随想 - 云云众生](https://yylives.cc/2025/01/01/happy-new-year-2025/) | 2134 | [IA](https://web.archive.org/web/20250102040710/https://yylives.cc/2025/01/01/happy-new-year-2025/) |
+| [2024年总结 - Bboysoul's Blog](https://www.bboy.app/2025/01/02/2024%E5%B9%B4%E6%80%BB%E7%BB%93/) | 760 | [IA](https://web.archive.org/web/20250102083854/https://www.bboy.app/2025/01/02/2024%E5%B9%B4%E6%80%BB%E7%BB%93/) |
