@@ -122,3 +122,7 @@
 | [2024 年末回顾 - 不完美的日子 - Pseudoyu](https://www.pseudoyu.com/zh/2024/12/31/yearly_review_2024/) | 1458 | [IA](https://web.archive.org/web/20241231210244/https://www.pseudoyu.com/zh/2024/12/31/yearly_review_2024/) |
 | [2025新年随想 - 云云众生](https://yylives.cc/2025/01/01/happy-new-year-2025/) | 2134 | [IA](https://web.archive.org/web/20250101004330/https://yylives.cc/2025/01/01/happy-new-year-2025/) |
 | [2024 年度总结 - 新城旧梦](https://www.itxcjm.top/317/) | 2204 | [Megalodon](https://megalodon.jp/2025-0101-1310-54/itxcjm.top/317/) |
+| [2024年回顾 - Pinpe的云端](https://blog.pinpe.top/shuoshuo/2024%e5%b9%b4%e5%9b%9e%e9%a1%be/) | 2206 | [IA](https://web.archive.org/web/20250102033400/https://blog.pinpe.top/shuoshuo/2024%E5%B9%B4%E5%9B%9E%E9%A1%BE/) |
+| [【日常】2024年度总结 - 小竹の笔记本](https://notes.smallbamboo.cn/2024year-end-review.html) | 2207 | [IA](https://web.archive.org/web/20250101054909/https://notes.smallbamboo.cn/2024year-end-review.html) |
+| [关于这一年的事情·2024年度记忆](https://rzi.me/read-2096.html) | 2208 | [IA](https://web.archive.org/web/20250102033844/https://rzi.me/read-2096.html) |
+| [抓住2024年的尾巴写一份年终总结吧 - 陶小桃Blog](https://www.52txr.cn/2024/2024conclusion.html) | Null | [IA](https://web.archive.org/web/20250102033859/https://www.52txr.cn/2024/2024conclusion.html) |
