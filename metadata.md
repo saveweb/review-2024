@@ -163,3 +163,4 @@
 | [辞旧迎新：Ray 的 2024 年终总结 - Ray's xLog](https://xlog.mk1.io/goodbye-2024) | 2216 | [IA](https://web.archive.org/web/20250102164425/https://xlog.mk1.io/goodbye-2024) |
 | [年终总结2024 - 摩尔の镇 - モル·町](https://www.mole9630.top/year-end-2024/) | 2217 | [IA](https://web.archive.org/web/20250102164558/https://www.mole9630.top/year-end-2024/) |
 | [2024年度总结 - CC米饭的小世界](https://world.ccrice.com/2024/12/25/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 2218 | [IA](https://web.archive.org/web/20250102164646/https://world.ccrice.com/2024/12/25/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
+| [2024，不上班的第一年 - rxliuli blog](https://blog.rxliuli.com/p/5669c03626ef4b3799adc96d016e332d/) | 719 | [AT](https://archive.ph/V2jzT) |
