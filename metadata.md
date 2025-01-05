@@ -164,3 +164,17 @@
 | [年终总结2024 - 摩尔の镇 - モル·町](https://www.mole9630.top/year-end-2024/) | 2217 | [IA](https://web.archive.org/web/20250102164558/https://www.mole9630.top/year-end-2024/) |
 | [2024年度总结 - CC米饭的小世界](https://world.ccrice.com/2024/12/25/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 2218 | [IA](https://web.archive.org/web/20250102164646/https://world.ccrice.com/2024/12/25/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
 | [2024，不上班的第一年 - rxliuli blog](https://blog.rxliuli.com/p/5669c03626ef4b3799adc96d016e332d/) | 719 | [AT](https://archive.ph/V2jzT) |
+| [2024年度总结:允许发生，无限可能 — dolphin](https://dolphin7.xyz/2024/01/03/Annual-Summary/) | 2219 | [IA](https://web.archive.org/web/20250105124558/https://dolphin7.xyz/2024/01/03/Annual-Summary/) |
+| [EKL 2024 farewell -  EzraKnotLab](https://ezraknotlab.github.io/post/ekl-2024/) | 1735 | [IA](https://web.archive.org/web/20250105124830/https://ezraknotlab.github.io/post/ekl-2024/) |
+| [我的2024：赶进度 - SKYue's Home](https://www.skyue.com/25010519.html) | 998 | [IA](https://web.archive.org/web/20250105125207/https://www.skyue.com/25010519.html) |
+| [2024 节点：在持续变化的环境中寻找竞争力 - 全栈应用开发:精益实践](http://www.phodal.com/blog/node-2024/) | 32 | [IA](https://web.archive.org/web/20250105125355/https://www.phodal.com/blog/node-2024/) |
+| [回顾维基萌的2024 - 维基萌](https://www.wikimoe.com/post/ye26eeha) | 273 | [IA](https://web.archive.org/web/20250105125452/https://www.wikimoe.com/post/ye26eeha) |
+| [2024年度总结 - luxinfeng’s home](https://www.luxinfeng.top/article/20250101-2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93) | 1733 | [IA](https://web.archive.org/web/20250105125540/https://www.luxinfeng.top/article/20250101-2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93) | 
+| [2024 回顧與十二月大小事 - Jessie's 潔西家](https://jessielinhuiching.wordpress.com/2025/01/04/2024-%E5%9B%9E%E9%A1%A7%E8%88%87%E5%8D%81%E4%BA%8C%E6%9C%88%E5%A4%A7%E5%B0%8F%E4%BA%8B/) | 2059 | [IA](https://web.archive.org/web/20250105125626/https://jessielinhuiching.wordpress.com/2025/01/04/2024-%E5%9B%9E%E9%A1%A7%E8%88%87%E5%8D%81%E4%BA%8C%E6%9C%88%E5%A4%A7%E5%B0%8F%E4%BA%8B/) |
+| [2024 年度记录 - YeungYeah 的乱写地](https://scottyeung.top/2025/record-of-2024/) | 265 | [IA](https://web.archive.org/web/20250105125938/https://scottyeung.top/2025/record-of-2024/) |
+| [FGHRSH 2024 年度报告 - FGHRSH 的博客](https://www.fghrsh.net/post/200.html) | 1784 | [IA](https://web.archive.org/web/20250105130051/https://www.fghrsh.net/post/200.html) |
+| [再见2024，你好2025 - 朽丘秋雨](https://koxiuqiu.cn/2025/01y04d1/) | 2164 | [IA](https://web.archive.org/web/20250105130148/https://koxiuqiu.cn/2025/01y04d1/) |
+| [2024_年终总结: 代码与咖啡 - 打工人的奇幻漂流](https://xmylog.com/article/articles_review_all_2024) | 1683 | [IA](https://web.archive.org/web/20250105130308/https://www.xmylog.com/article/articles_review_all_2024) |
+| [2024 年终总结 - 连波的闲谈杂鱼](https://godruoyi.com/posts/2024/) | 2053 | [IA](https://web.archive.org/web/20250105130342/https://godruoyi.com/posts/2024/) |
+| [2024 年终总结 - 椒盐豆豉](https://blog.douchi.space/2024-in-review/) | 2097 | [IA](https://web.archive.org/web/20250105130500/https://blog.douchi.space/2024-in-review/#gsc.tab=0) |
+| [2024 年博客回顾 - Yuanji's Blog](https://blog.yuanji.dev/posts/2024-recap/) | 2036 | [IA](https://web.archive.org/web/20250105130554/https://blog.yuanji.dev/posts/2024-recap/) |
