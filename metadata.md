@@ -180,3 +180,8 @@
 | [2024 年博客回顾 - Yuanji's Blog](https://blog.yuanji.dev/posts/2024-recap/) | 2036 | [IA](https://web.archive.org/web/20250105130554/https://blog.yuanji.dev/posts/2024-recap/) |
 | [【My World】我有什么理由放弃-记2024年度总结 - MoyuqLのBlog](https://blog.moyuql.top/posts/499dda39.html) | 1598 | [IA](https://web.archive.org/web/20250105234332/https://blog.moyuql.top/posts/499dda39.html) |
 | [接纳距离：林子的 2024 年终总结 - Aphelion](https://rynco.me/posts/wrapping-up-2024/) | 2222 | [IA](https://web.archive.org/web/20250105234506/https://rynco.me/posts/wrapping-up-2024/) |
+| [RECAP2024：胶卷中的一年 - CLCK's Space](https://www.clckblog.space/blog/recap-2024/) | Null | [IA](https://web.archive.org/web/20250106130824/https://www.clckblog.space/blog/recap-2024/) |
+| [2024年度总结 - 启涵的博客](https://www.codeqihan.com/post/2024-nian-du-zong-jie/) | 2228 | [IA](https://web.archive.org/web/20250106005514/https://www.codeqihan.com/post/2024-nian-du-zong-jie/) |
+| [RECAP2024: 水槛卧听雨 - 满五的博客](https://blog.aeilot.top/2024/12/31/recap2024/) | 389 | [IA](https://web.archive.org/web/20250106111944/https://blog.aeilot.top/2024/12/31/recap2024/) |
+| [2024年终总结 - 逆风的小窝](https://blog.imnifeng.com/archives/711) | 1368 | [IA](https://web.archive.org/web/20250106131640/https://blog.imnifeng.com/archives/711) |
+| [2024 总结: 时代在变 - Hi! 上天不?](https://a-wing.top/self/2024/12/31/2024) | 1526 | [IA](https://web.archive.org/web/20250106131605/https://a-wing.top/self/2024/12/31/2024) |
