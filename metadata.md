@@ -185,3 +185,6 @@
 | [RECAP2024: 水槛卧听雨 - 满五的博客](https://blog.aeilot.top/2024/12/31/recap2024/) | 389 | [IA](https://web.archive.org/web/20250106111944/https://blog.aeilot.top/2024/12/31/recap2024/) |
 | [2024年终总结 - 逆风的小窝](https://blog.imnifeng.com/archives/711) | 1368 | [IA](https://web.archive.org/web/20250106131640/https://blog.imnifeng.com/archives/711) |
 | [2024 总结: 时代在变 - Hi! 上天不?](https://a-wing.top/self/2024/12/31/2024) | 1526 | [IA](https://web.archive.org/web/20250106131605/https://a-wing.top/self/2024/12/31/2024) |
+| [回探2024（精簡版） - 掘火档案](https://www.digforfire.net/?p=19885) | 1584 | [IA](https://web.archive.org/web/20250107055535/https://www.digforfire.net/?p=19885) |
+| [口水文年度总结 - 森木志](https://oxxx.cn/archives/1353.html) | 828 | [IA](https://web.archive.org/web/20250107055558/https://oxxx.cn/archives/1353.html) |
+| [2024年个人总结 - 码农明明桑](https://isming.me/2025-01-06-2024-summary/) | 2075 | [IA](https://web.archive.org/web/20250107055702/https://isming.me/2025-01-06-2024-summary/) |
