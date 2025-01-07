@@ -194,3 +194,5 @@
 | [回顾与展望 2024 - 2025 - 天仙子](https://tianxianzi.me/2025/01/06/new_year_plan_2025/) | 1791 | [IA](https://web.archive.org/web/20250107164055/https://tianxianzi.me/2025/01/06/new_year_plan_2025/) |
 | [【随便写写】71 & 2024年的摄影 - 天空Blond](https://skyblond.info/archives/1085.html) | 2229 | [IA](https://web.archive.org/web/20250107164246/https://skyblond.info/archives/1085.html) |
 | [2024年终总结 - 萌豚 Moechu](https://moechu.cn/archives/1118.html) | Null | Null |
+| [写在 2025 的开头 - 極客死亡計劃](https://geedea.pro/posts/%E5%86%99%E5%9C%A82025%E7%9A%84%E5%BC%80%E5%A4%B4/) | 2230 | [IA](https://web.archive.org/web/20250107171906/https://geedea.pro/posts/%E5%86%99%E5%9C%A82025%E7%9A%84%E5%BC%80%E5%A4%B4/) |
+| [2024 - 无梦梦游记](https://bkryofu.xyz/p/93c9aa62) | 2231 | [IA](https://web.archive.org/web/20250107173142/https://bkryofu.xyz/p/93c9aa62) |
