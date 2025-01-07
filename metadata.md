@@ -188,3 +188,5 @@
 | [回探2024（精簡版） - 掘火档案](https://www.digforfire.net/?p=19885) | 1584 | [IA](https://web.archive.org/web/20250107055535/https://www.digforfire.net/?p=19885) |
 | [口水文年度总结 - 森木志](https://oxxx.cn/archives/1353.html) | 828 | [IA](https://web.archive.org/web/20250107055558/https://oxxx.cn/archives/1353.html) |
 | [2024年个人总结 - 码农明明桑](https://isming.me/2025-01-06-2024-summary/) | 2075 | [IA](https://web.archive.org/web/20250107055702/https://isming.me/2025-01-06-2024-summary/) |
+| [我的 2024 - 稳中求进、热爱生活 - This Cute World](https://thiscute.world/posts/2024-summary/?utm_source=atom_feed) | 1121 | [IA](https://web.archive.org/web/20250107153817/https://thiscute.world/posts/2024-summary/) |
+| [2024年度总结 - Lenger的后花园](https://varraro.github.io/2025/01/06/page-1/) | 1617 | [IA](https://web.archive.org/web/20250107154213/https://varraro.github.io/2025/01/06/page-1/) |
