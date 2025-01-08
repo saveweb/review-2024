@@ -196,3 +196,5 @@
 | [2024年终总结 - 萌豚 Moechu](https://moechu.cn/archives/1118.html) | Null | Null |
 | [写在 2025 的开头 - 極客死亡計劃](https://geedea.pro/posts/%E5%86%99%E5%9C%A82025%E7%9A%84%E5%BC%80%E5%A4%B4/) | 2230 | [IA](https://web.archive.org/web/20250107171906/https://geedea.pro/posts/%E5%86%99%E5%9C%A82025%E7%9A%84%E5%BC%80%E5%A4%B4/) |
 | [2024 - 无梦梦游记](https://bkryofu.xyz/p/93c9aa62) | 2231 | [IA](https://web.archive.org/web/20250107173142/https://bkryofu.xyz/p/93c9aa62) |
+| [我的 2024 - JalenChuh](https://jalenzz.com/life/my-2024/) | 425 | [IA](https://web.archive.org/web/20250108084937/https://jalenzz.com/life/my-2024/) |
+| [2024 年跑步总结 - Lei Mao's Log Book](https://leimao.github.io/essay/2024%E5%B9%B4%E8%B7%91%E6%AD%A5%E6%80%BB%E7%BB%93/) | 1205 | [IA](https://web.archive.org/web/20250108085057/https://leimao.github.io/essay/2024%E5%B9%B4%E8%B7%91%E6%AD%A5%E6%80%BB%E7%BB%93/) |
