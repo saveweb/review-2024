@@ -198,3 +198,6 @@
 | [2024 - 无梦梦游记](https://bkryofu.xyz/p/93c9aa62) | 2231 | [IA](https://web.archive.org/web/20250107173142/https://bkryofu.xyz/p/93c9aa62) |
 | [我的 2024 - JalenChuh](https://jalenzz.com/life/my-2024/) | 425 | [IA](https://web.archive.org/web/20250108084937/https://jalenzz.com/life/my-2024/) |
 | [2024 年跑步总结 - Lei Mao's Log Book](https://leimao.github.io/essay/2024%E5%B9%B4%E8%B7%91%E6%AD%A5%E6%80%BB%E7%BB%93/) | 1205 | [IA](https://web.archive.org/web/20250108085057/https://leimao.github.io/essay/2024%E5%B9%B4%E8%B7%91%E6%AD%A5%E6%80%BB%E7%BB%93/) |
+| [2024 Year in Review - slince Blog](https://slince-zero.github.io/posts/2024/12/31/2024-Year-in-Review.html) | 1612 | [IA](https://web.archive.org/web/20250109135053/https://slince-zero.github.io/posts/2024/12/31/2024-Year-in-Review.html) |
+| [去有光的地方 —— 2024 年终总结 - LGiki's Blog](https://lgiki.net/post/2024-review/) | 1583 | [IA](https://web.archive.org/web/20250109135127/https://lgiki.net/post/2024-review/) |
+| [2024 年终总结 - SuemorのBlog](https://suemor.com/notes/6) | 1590 | [IA](https://web.archive.org/web/20250109135227/https://suemor.com/notes/6) |
