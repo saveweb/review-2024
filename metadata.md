@@ -201,3 +201,6 @@
 | [2024 Year in Review - slince Blog](https://slince-zero.github.io/posts/2024/12/31/2024-Year-in-Review.html) | 1612 | [IA](https://web.archive.org/web/20250109135053/https://slince-zero.github.io/posts/2024/12/31/2024-Year-in-Review.html) |
 | [去有光的地方 —— 2024 年终总结 - LGiki's Blog](https://lgiki.net/post/2024-review/) | 1583 | [IA](https://web.archive.org/web/20250109135127/https://lgiki.net/post/2024-review/) |
 | [2024 年终总结 - SuemorのBlog](https://suemor.com/notes/6) | 1590 | [IA](https://web.archive.org/web/20250109135227/https://suemor.com/notes/6) |
+| [2024年度报告 - 问心斋](https://blog.ehnap.com/posts/%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A/annual-2024.html) | 2240 | [IA](https://web.archive.org/web/20250110102435/https://blog.ehnap.com/posts/%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A/annual-2024.html) |
+| [2024 年的总结 - 卡瓦邦噶！](https://www.kawabangga.com/posts/6809) | 991 | [IA](https://web.archive.org/web/20250110102614/https://www.kawabangga.com/posts/6809) |
+| [2024 年终总结 - Battle Le](http://battlele.com/2024-review/) | 548 | [IA](https://web.archive.org/web/20250110102729/https://battlele.com/2024-review/) |
