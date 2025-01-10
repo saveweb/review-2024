@@ -204,3 +204,11 @@
 | [2024年度报告 - 问心斋](https://blog.ehnap.com/posts/%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A/annual-2024.html) | 2240 | [IA](https://web.archive.org/web/20250110102435/https://blog.ehnap.com/posts/%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A/annual-2024.html) |
 | [2024 年的总结 - 卡瓦邦噶！](https://www.kawabangga.com/posts/6809) | 991 | [IA](https://web.archive.org/web/20250110102614/https://www.kawabangga.com/posts/6809) |
 | [2024 年终总结 - Battle Le](http://battlele.com/2024-review/) | 548 | [IA](https://web.archive.org/web/20250110102729/https://battlele.com/2024-review/) |
+| [2024年度总结 - 咖啡豆子coffee的小站](https://blog.kfdzcoffee.cn/archives/2024AnnualSummary) | 2241 | [IA](https://web.archive.org/web/20250110150554/https://blog.kfdzcoffee.cn/archives/2024AnnualSummary) |
+| [2024年终总结与展望 - 一蓑烟雨的博客](https://easyf12.top/posts/ac7801e/) | 2242 | [IA](https://web.archive.org/web/20250110150908/https://easyf12.top/posts/ac7801e/) |
+| [再见2024，你好2025！ - 小林的小窝](https://xlbzi.cn/archives/hello2025.html) | 2243 | [IA](https://web.archive.org/web/20250110151305/https://xlbzi.cn/archives/hello2025.html) |
+| [很屑的2024年度总结（ - 汐塔魔法屋](https://blog.sinzmise.top/posts/23226/) | 2244 | [IA](https://web.archive.org/web/20250110151443/https://blog.sinzmise.top/posts/23226/) |
+| [2024。然后，下一曲即将奏响 - ScaredCube](https://sccube.link/2024-2025/) | 2245 | [IA](https://web.archive.org/web/20250110151446/https://sccube.link/2024-2025/) |
+| [十五岁、迷茫还是梦与希冀？——我的2024 - Ariasakaの小窝](https://blog.yaria.top/posts/f445e0f8) | 2246 | [IA](https://web.archive.org/web/20250110151619/https://blog.yaria.top/posts/f445e0f8) |
+| [2024 年度总结 - Aciano](https://aciano.top/posts/2024-report/) | 2247 | [IA](https://web.archive.org/web/20250110151810/https://aciano.top/posts/2024-report/) |
+| [2024年 年终总结 - AULyPc](https://blog.aulypc0x0.online/posts/2024_year-end_summary/) | 2248 | [IA](https://web.archive.org/web/20250110152013/https://blog.aulypc0x0.online/posts/2024_year-end_summary/) |
