@@ -212,3 +212,6 @@
 | [十五岁、迷茫还是梦与希冀？——我的2024 - Ariasakaの小窝](https://blog.yaria.top/posts/f445e0f8) | 2246 | [IA](https://web.archive.org/web/20250110151619/https://blog.yaria.top/posts/f445e0f8) |
 | [2024 年度总结 - Aciano](https://aciano.top/posts/2024-report/) | 2247 | [IA](https://web.archive.org/web/20250110151810/https://aciano.top/posts/2024-report/) |
 | [2024年 年终总结 - AULyPc](https://blog.aulypc0x0.online/posts/2024_year-end_summary/) | 2248 | [IA](https://web.archive.org/web/20250110152013/https://blog.aulypc0x0.online/posts/2024_year-end_summary/) |
+| [最后的2024 - 冬瓜blog](https://dgtea.site/2024/12/28/2024-end/) | Null | [IA](https://web.archive.org/web/20250110152737/https://dgtea.site/2024/12/28/2024-end/) |
+| [2024 年终总结 - 菲兹克斯喵](https://physnya.top/2025/01/10/2024/) | 2065 | [IA](https://web.archive.org/web/20250110153154/https://physnya.top/2025/01/10/2024/) |
+| [MX 2024年终总结 - 百品博客](https://baipin.pw/life/hi2025.html) | 2249 | [IA](https://web.archive.org/web/20250110153550/https://baipin.pw/life/hi2025.html) |
