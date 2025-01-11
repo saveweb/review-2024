@@ -215,3 +215,15 @@
 | [最后的2024 - 冬瓜blog](https://dgtea.site/2024/12/28/2024-end/) | Null | [IA](https://web.archive.org/web/20250110152737/https://dgtea.site/2024/12/28/2024-end/) |
 | [2024 年终总结 - 菲兹克斯喵](https://physnya.top/2025/01/10/2024/) | 2065 | [IA](https://web.archive.org/web/20250110153154/https://physnya.top/2025/01/10/2024/) |
 | [MX 2024年终总结 - 百品博客](https://baipin.pw/life/hi2025.html) | 2249 | [IA](https://web.archive.org/web/20250110153550/https://baipin.pw/life/hi2025.html) |
+| [2024 年跑步总结 首马破三 里程 3460 公里 - Conge](https://conge.livingwithfcs.org/2025/01/10/ReturnPoint-2024-running-review/) | 1499 | [IA](https://web.archive.org/web/20250111042016/https://conge.livingwithfcs.org/2025/01/10/ReturnPoint-2024-running-review/) |
+| [我的2024 - PhyMAnime](https://phymani.me/2024/12/31/Summary/) | Null | [IA](https://web.archive.org/web/20250111042637/https://phymani.me/2024/12/31/Summary/) |
+| [2024年度总结 - ZLA 小站](https://www.zla.pub/2024-annual-summary) | 2251 | [IA](https://web.archive.org/web/20250111044046/https://www.zla.pub/2024-annual-summary) |
+| [2024，清风入梦，扬帆待明年 - LiuShen's Blog](https://blog.liushen.fun/posts/c7e32459/) | 2252 | [IA](https://web.archive.org/web/20250111044607/https://blog.liushen.fun/posts/c7e32459/) |
+| [2024 年终总结 - 晓雨杂记](https://www.lihaoyu.cn/posts/2024-review) | 2253 | [IA](https://web.archive.org/web/20250111044941/https://www.lihaoyu.cn/posts/2024-review) |
+| [2024 年度总结 - Kengwang 博客](https://blog.kengwang.com.cn/archives/652/) | 2254 | [IA](https://web.archive.org/web/20250111045337/https://blog.kengwang.com.cn/archives/652/) |
+| [2024年终总结 - Davidの3号基地](https://www.david03.top/index.php/archives/200/) | 2255 | [IA](https://web.archive.org/web/20250111045439/https://www.david03.top/index.php/archives/200/) |
+| [总结 2024 - Pig Fang](https://blog.gplane.win/posts/summary-of-2024.html) | 2016 | [IA](https://web.archive.org/web/20250111050250/https://blog.gplane.win/posts/summary-of-2024.html) |
+| [2024年年终总结 - 林林杂语](https://www.xiaozonglin.cn/2024-year-end-summary/) | 1194 | [IA](https://web.archive.org/web/20250111050616/https://www.xiaozonglin.cn/2024-year-end-summary/) |
+| [大致是个 2024 年度总结 - MBRjun-Blog](https://www.mbrjun.cn/archives/500/) | 1743 | [IA](https://web.archive.org/web/20250111050814/https://www.mbrjun.cn/archives/500/) |
+| [我的 2024 年度总结 - Restent's Notebook](https://blog.gxres.net/posts/2024-annual-summary) | 1768 | [IA](https://web.archive.org/web/20250111051035/https://blog.gxres.net/posts/2024-annual-summary/) |
+| [2024年终总结 - 233355607的生草小站](https://www.233355607.xyz/posts/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93.html) | 2256 | [IA](https://web.archive.org/web/20250111051319/https://www.233355607.xyz/posts/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93) |
