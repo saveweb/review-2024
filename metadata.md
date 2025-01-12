@@ -230,3 +230,4 @@
 | [⏰时间胶囊：2024，走走停停-梦中小城小站](https://www.llh1347.com/archives/20250105.html) | Null | [IA](https://web.archive.org/web/20250112100819/https://www.llh1347.com/archives/20250105.html) |
 | [2024 年终总结 ：碌碌有为 - L.R.T.](https://blog.lolis.dev/index.php/archives/197/) | 2257 | [IA](https://web.archive.org/web/20250112125624/https://blog.lolis.dev/index.php/archives/197/) |
 | [2024年度总结:允许发生，无限可能 - dolphin](https://dolphin7.xyz/2025/01/03/Annual-Summary/) | 2219 | [IA](https://web.archive.org/web/20250112125722/https://dolphin7.xyz/2025/01/03/Annual-Summary/) |
+| [嘻嘻哈哈又一年 2024 - Another Dayu](https://anotherdayu.com/2025/6449/) | 2258 | [IA](https://web.archive.org/web/20250112154827/https://anotherdayu.com/2025/6449/) |
