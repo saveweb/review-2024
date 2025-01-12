@@ -227,3 +227,6 @@
 | [大致是个 2024 年度总结 - MBRjun-Blog](https://www.mbrjun.cn/archives/500/) | 1743 | [IA](https://web.archive.org/web/20250111050814/https://www.mbrjun.cn/archives/500/) |
 | [我的 2024 年度总结 - Restent's Notebook](https://blog.gxres.net/posts/2024-annual-summary) | 1768 | [IA](https://web.archive.org/web/20250111051035/https://blog.gxres.net/posts/2024-annual-summary/) |
 | [2024年终总结 - 233355607的生草小站](https://www.233355607.xyz/posts/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93.html) | 2256 | [IA](https://web.archive.org/web/20250111051319/https://www.233355607.xyz/posts/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93) |
+| [⏰时间胶囊：2024，走走停停-梦中小城小站](https://www.llh1347.com/archives/20250105.html) | Null | [IA](https://web.archive.org/web/20250112100819/https://www.llh1347.com/archives/20250105.html) |
+| [2024 年终总结 ：碌碌有为 - L.R.T.](https://blog.lolis.dev/index.php/archives/197/) | 2257 | [IA](https://web.archive.org/web/20250112125624/https://blog.lolis.dev/index.php/archives/197/) |
+| [2024年度总结:允许发生，无限可能 - dolphin](https://dolphin7.xyz/2025/01/03/Annual-Summary/) | 2219 | [IA](https://web.archive.org/web/20250112125722/https://dolphin7.xyz/2025/01/03/Annual-Summary/) |
