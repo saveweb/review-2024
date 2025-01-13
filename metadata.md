@@ -231,7 +231,7 @@
 | [2024 年终总结 ：碌碌有为 - L.R.T.](https://blog.lolis.dev/index.php/archives/197/) | 2257 | [IA](https://web.archive.org/web/20250112125624/https://blog.lolis.dev/index.php/archives/197/) |
 | [2024年度总结:允许发生，无限可能 - dolphin](https://dolphin7.xyz/2025/01/03/Annual-Summary/) | 2219 | [IA](https://web.archive.org/web/20250112125722/https://dolphin7.xyz/2025/01/03/Annual-Summary/) |
 | [嘻嘻哈哈又一年 2024 - Another Dayu](https://anotherdayu.com/2025/6449/) | 2258 | [IA](https://web.archive.org/web/20250112154827/https://anotherdayu.com/2025/6449/) |
-| [2024 年个人博客回顾 - 雅余  ·  茶余饭后，闲情雅致](https://yayu.net/4763.html) | 1393 | [IA]https://web.archive.org/web/20250112155501/https://yayu.net/4763.html() |
+| [2024 年个人博客回顾 - 雅余  ·  茶余饭后，闲情雅致](https://yayu.net/4763.html) | 1393 | [IA](https://web.archive.org/web/20250112155501/https://yayu.net/4763.html) |
 | [2024 ·年度回顾 - 印记](https://yinji.org/5383.html) | 1712 | [IA](https://web.archive.org/web/20250112155925/https://yinji.org/5383.html) |
 | [2024干啥了 - Albus' Pensieve - 邓布利多的冥想盆](https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) | 2020 | [IA](https://web.archive.org/web/20250112160200/https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) |
 | [从孩子到成人 - 雨霖铃慢](https://linglilongyi.com/posts/from_a_child_to_an_adult/) | 2260 | [AT](https://archive.ph/1JzfY) |
