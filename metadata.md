@@ -234,3 +234,4 @@
 | [2024 年个人博客回顾 - 雅余  ·  茶余饭后，闲情雅致](https://yayu.net/4763.html) | 1393 | [IA]https://web.archive.org/web/20250112155501/https://yayu.net/4763.html() |
 | [2024 ·年度回顾 - 印记](https://yinji.org/5383.html) | 1712 | [IA](https://web.archive.org/web/20250112155925/https://yinji.org/5383.html) |
 | [2024干啥了 - Albus' Pensieve - 邓布利多的冥想盆](https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) | 2020 | [IA](https://web.archive.org/web/20250112160200/https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) |
+| [从孩子到成人 - 雨霖铃慢](https://linglilongyi.com/posts/from_a_child_to_an_adult/) | 2260 | [AT](https://archive.ph/1JzfY) |
