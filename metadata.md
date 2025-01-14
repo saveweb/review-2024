@@ -237,3 +237,6 @@
 | [2024干啥了 - Albus' Pensieve - 邓布利多的冥想盆](https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) | 2020 | [IA](https://web.archive.org/web/20250112160200/https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) |
 | [从孩子到成人 - 雨霖铃慢](https://linglilongyi.com/posts/from_a_child_to_an_adult/) | 2260 | [AT](https://archive.ph/1JzfY) |
 | [A 2-Year Reflection for 2023 and 2024 - Bin Wang - My Personal Blog](https://www.binwang.me/2025-01-13-A-2-Year-Reflection.html) | 1209 | [IA](https://web.archive.org/web/20250114122130/https://www.binwang.me/2025-01-13-A-2-Year-Reflection.html) |
+| [Ciallo~ 2025! * Farewell 2024!](https://www.nekopara.uk/archives/443.html) | 2262 | [IA](https://web.archive.org/web/20250114123201/https://www.nekopara.uk/archives/443.html) |
+| [2024年度总结报告 - 钻石甲的博客网站](https://chengtext.eu.org/posts/39360) | Null | [IA](https://web.archive.org/web/20250114123627/https://chengtext.eu.org/posts/39360) |
+| [Hello 2025！ - Bhao's Blog](https://dwd.moe/p/hi-2025.html) | 2263 | [IA](https://web.archive.org/web/20250114123949/https://dwd.moe/p/hi-2025.html) |
