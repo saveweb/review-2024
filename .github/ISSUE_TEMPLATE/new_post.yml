@@ -1,5 +1,5 @@
-name: 投稿年终总结
-description: 在这里发起新的 issue 以投稿您的年终总结
+name: "投稿年终总结"
+description: "在这里发起新的 issue 以投稿您的年终总结"
 title: "[New]: "
 assignees:
   - octocat
@@ -7,22 +7,29 @@ body:
   - type: markdown
     attributes:
       value: |
-        感谢你的投稿~
+        感谢你的投稿~ 🎉
 
-          - 🌟投稿前请检查是否已被收录
-          - 为了方便收录、管理和查阅，请按照以下格式填写您的 issue 标题：`文章标题 - 网站名称`
+        在此之前，请注意以下几点：
+        - 投稿前请检查是否已被收录。
+        - 请务必按以下格式填写 **issue 标题**：  
+          `文章标题 - 网站名称`  
+          示例：`如何写出优秀的年终总结 - 我的博客`
+        - **文章链接**：请填写文章的原始链接。
+        - **存档链接**：如有存档链接（例如：[IA](https://web.archive.org/save) 或 [AT](https://archive.today)），请填写存档链接。如果没有存档，可以留空。
+        - 我们将通过查找网站上的 RSS 订阅链接（如有）在 [box.saveweb.org](https://box.saveweb.org) 进行订阅，并分配博客 ID，便于后续项目管理（如 `review-2025`）。
   - type: input
     id: post_url
     attributes:
-      label: 文章链接
-      description: 
-      placeholder: https://example.com/
+      label: "文章链接"
+      description: "请填写文章的原始链接"
+      placeholder: "https://example.com/"
     validations:
       required: true
   - type: input
     id: archive_url
     attributes:
-      label: 存档链接
-      description: 请填写你在 [IA](https://web.archive.org/save) 或 [AT](https://archive.today) 上的存档链接
+      label: "存档链接"
+      description: "如有存档链接（如 [IA](https://web.archive.org/save) 或 [AT](https://archive.today)），请填写存档链接。如果没有存档，可以留空。"
+      placeholder: "https://web.archive.org/xxxx"
     validations:
       required: false
