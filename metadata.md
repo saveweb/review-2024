@@ -236,3 +236,4 @@
 | [2024 ·年度回顾 - 印记](https://yinji.org/5383.html) | 1712 | [IA](https://web.archive.org/web/20250112155925/https://yinji.org/5383.html) |
 | [2024干啥了 - Albus' Pensieve - 邓布利多的冥想盆](https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) | 2020 | [IA](https://web.archive.org/web/20250112160200/https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) |
 | [从孩子到成人 - 雨霖铃慢](https://linglilongyi.com/posts/from_a_child_to_an_adult/) | 2260 | [AT](https://archive.ph/1JzfY) |
+| [A 2-Year Reflection for 2023 and 2024 - Bin Wang - My Personal Blog](https://www.binwang.me/2025-01-13-A-2-Year-Reflection.html) | 1209 | [IA](https://web.archive.org/web/20250114122130/https://www.binwang.me/2025-01-13-A-2-Year-Reflection.html) |
