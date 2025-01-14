@@ -240,3 +240,22 @@
 | [Ciallo~ 2025! * Farewell 2024!](https://www.nekopara.uk/archives/443.html) | 2262 | [IA](https://web.archive.org/web/20250114123201/https://www.nekopara.uk/archives/443.html) |
 | [2024年度总结报告 - 钻石甲的博客网站](https://chengtext.eu.org/posts/39360) | Null | [IA](https://web.archive.org/web/20250114123627/https://chengtext.eu.org/posts/39360) |
 | [Hello 2025！ - Bhao's Blog](https://dwd.moe/p/hi-2025.html) | 2263 | [IA](https://web.archive.org/web/20250114123949/https://dwd.moe/p/hi-2025.html) |
+| [2024年终总结 - Bing's Blog](https://imcbc.cn/202501/2024-summary/) | 920 | [IA](https://web.archive.org/web/20250114191130/https://imcbc.cn/202501/2024-summary/) |
+| [我的2024年度总结 - P3ter's Blog](https://p3ter.me/posts/2024_summary.html) | 2264 | [IA](https://web.archive.org/web/20250114191411/https://p3ter.me/posts/2024_summary.html) |
+| [回顾24年的过去总结 - 热爱生活与梦想](https://lisenhui.cn/life/24year-personal-summary.html) | 2265 | [IA](https://web.archive.org/web/20250114192046/https://lisenhui.cn/life/24year-personal-summary.html) |
+| [2024 年度总结 - Naccl's Blog](https://naccl.top/blog/34) | Null | [IA](https://web.archive.org/web/20250114192318/https://naccl.top/blog/34) |
+| [心路旅程：向光而行 —— 2024个人年度总结（非工作向） - 海拉鲁打怪日记](https://www.xuezhao.space/yearinreview-2024.html) | 2266 | [IA](https://web.archive.org/web/20250114192908/https://www.xuezhao.space/yearinreview-2024.html) |
+| [写在 2025 年伊始，以及存在的第一万天 - Project RC](https://stdrc.cc/post/2025/01/10/2025/) | 1527 | [IA](https://web.archive.org/web/20250114193204/https://stdrc.cc/post/2025/01/10/2025/) |
+| [老板，来杯IPA，像我生活一样苦的 - Stray Episode](https://farer.org/2025/01/08/bye-2024/) | 1297 | [IA](https://web.archive.org/web/20250114193402/https://farer.org/2025/01/08/bye-2024/) |
+| [我为哪些软件，电子设备买单？【2024年】 - 故事的程序猿](https://blog.lichenghao.cn/article/jz2hoosc3vse) | 2267 | [IA](https://web.archive.org/web/20250114193956/https://blog.lichenghao.cn/article/jz2hoosc3vse) |
+| [2024年终总结 - JinhZz's Blog](https://tjra.top/blog/7) | Null | [IA](https://web.archive.org/web/20250114194705/https://tjra.top/blog/7) |
+| [2024 年终总结 · Wincer's Blog](https://blog.itswincer.com/posts/2024-year-end-reflection/) | 2268 | [IA](https://web.archive.org/web/20250114195205/https://blog.itswincer.com/posts/2024-year-end-reflection/) |
+| [我的 2024：读书、换工作、个人产品、大模型、机器人、投资 - 潘智祥](https://panzhixiang.cn/2025/my-2024/) | 2269 | [IA](https://web.archive.org/web/20250114200337/https://panzhixiang.cn/2025/my-2024/) |
+| [悲观者正确 乐观者前行 - Jeffer.Z的博客](https://www.jeffer.xyz/cid/2310.html) | 2270 | [IA](https://web.archive.org/web/20250114200438/https://www.jeffer.xyz/cid/2310.html) |
+| [二零二四年年终总结 - 幻影博客](https://blog.52hyjs.com/post-992.html) | Null | [IA](https://web.archive.org/web/20250114201124/https://blog.52hyjs.com/post-992.html) |
+| [写给27岁的自己 - orzi! - 做一个有想法的人](https://orzi.me/index.php/archives/59/) | 2271 | [IA](https://web.archive.org/web/20250114201855/https://orzi.me/index.php/archives/59/) |
+| [再见2024 - 第一次写一篇年终总结 - LineXic书屋](https://linexic.top/2024/12/29/2024%E5%91%A8%E5%B9%B4%E6%80%BB%E7%BB%93/) | 2272 | [IA](https://web.archive.org/web/20250114202640/https://linexic.top/2024/12/29/2024%E5%91%A8%E5%B9%B4%E6%80%BB%E7%BB%93/) |
+| [时间与人生——我的 2024 总结 - besscroft](https://besscroft.com/summary-2024) | 2273 | [IA](https://web.archive.org/web/20250114203208/https://besscroft.com/summary-2024) |
+| [年终｜所以，要不要读研 - Kowyo](https://kowyo.com/post/year-in-review/2024/) | 2274 | [IA](https://web.archive.org/web/20250114203410/https://kowyo.com/post/year-in-review/2024/) |
+| [2024 年终总结：时间统计和人物属性轴 - 第三夏尔 - Third Shire](https://thirdshire.com/annual-review-2024/) | 2275 | [IA](https://web.archive.org/web/20250114203652/https://thirdshire.com/annual-review-2024/) |
+| [2024，心有所热，步履不停 - 随笔 - cosine = 余弦の博客 = WA 的一声就哭了](https://ysx.cosine.ren/2024-life-review) | 2277 | [IA](https://web.archive.org/web/20250114203814/https://ysx.cosine.ren/2024-life-review) |
