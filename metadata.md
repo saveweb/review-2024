@@ -259,3 +259,17 @@
 | [年终｜所以，要不要读研 - Kowyo](https://kowyo.com/post/year-in-review/2024/) | 2274 | [IA](https://web.archive.org/web/20250114203410/https://kowyo.com/post/year-in-review/2024/) |
 | [2024 年终总结：时间统计和人物属性轴 - 第三夏尔 - Third Shire](https://thirdshire.com/annual-review-2024/) | 2275 | [IA](https://web.archive.org/web/20250114203652/https://thirdshire.com/annual-review-2024/) |
 | [2024，心有所热，步履不停 - 随笔 - cosine = 余弦の博客 = WA 的一声就哭了](https://ysx.cosine.ren/2024-life-review) | 2277 | [IA](https://web.archive.org/web/20250114203814/https://ysx.cosine.ren/2024-life-review) |
+| [值得好好总结的2024 – 燕渡寒潭](https://hisherry.com/%e5%8a%a0%e5%9b%bd%e7%94%9f%e6%b4%bb/4795/) | 863 | [IA](https://web.archive.org/web/20250114204929/https://hisherry.com/%E5%8A%A0%E5%9B%BD%E7%94%9F%E6%B4%BB/4795/) |
+| [2025，加油！ – 品味苏州](https://pwsz.com/life/4651.html) | 2278 | [IA](https://web.archive.org/web/20250114205051/https://pwsz.com/life/4651.html) |
+| [2024 · 应届牛马到远程自由 - 愧怍](https://kuizuo.cn/blog/2024-year-end-summary) | 2279 | [IA](https://web.archive.org/web/20250114205811/https://kuizuo.cn/blog/2024-year-end-summary) |
+| [2024 年终总结 - 宇阳 - 花有重开日, 人无再少年](https://liuyuyang.net/article/2214) | Null | [IA](https://web.archive.org/web/20250114205954/https://liuyuyang.net/article/2214) |
+| [2024 - 一些事物向前运行，既没有阴影也没有回声 - 枕石](https://zhen-shi.github.io/p/2024-wrap-up/) | 2280 | [IA](https://web.archive.org/web/20250114210405/https://zhen-shi.github.io/p/2024-wrap-up/) |
+| [2024同人年终总结 ✨ - 再會，謝謝所有的魚](https://gregueria.icu/posts/fanfic2024/) | 2281 | [IA](https://web.archive.org/web/20250114210745/https://gregueria.icu/posts/fanfic2024/) |
+| [2024年与半途而废 - 長門有希](https://blog.yuki-nagato.com/zh-cn/articles/2024-summary/) | 2282 | [IA](https://web.archive.org/web/20250114210658/https://blog.yuki-nagato.com/zh-cn/articles/2024-summary/) |
+| [2024-步履不停 - 昼河万里](https://tothemoonriver.icu/2025/2024%E6%AD%A5%E5%B1%A5%E4%B8%8D%E5%81%9C/) | 2283 | [IA](https://web.archive.org/web/20250114210923/https://tothemoonriver.icu/2025/2024%E6%AD%A5%E5%B1%A5%E4%B8%8D%E5%81%9C/) |
+| [2024 - 2025 - Yelle🦋](https://yelleis.top/p/2024-2025/) | 2284 | [IA](https://web.archive.org/web/20250114211044/https://yelleis.top/p/2024-2025/) |
+| [2024 Wardrobe Recap - 2024 衣橱回顾 - After 27](https://www.after27.me/blog/2024-wardrobe-recap) | 2285 | [IA](https://web.archive.org/web/20250114211414/https://www.after27.me/blog/2024-wardrobe-recap) |
+| [2024年阅读总结 - 游托啤吖](https://ada3104.pages.dev/post/2024reading/) | 2286 | [IA](https://web.archive.org/web/20250114211515/https://ada3104.pages.dev/post/2024reading/) |
+| [2024年终报告  - 春天与阿修罗](https://harushuura.vip/post/2024/2024-yearly-report/) | NUll | [IA](https://web.archive.org/web/20250114211810/https://harushuura.vip/post/2024/2024-yearly-report/) |
+| [年终-在海水退潮前、发布！ - 深海鱼拒绝触礁](https://trails-of-isara.vercel.app/2025/%E5%B9%B4%E7%BB%88%E5%9C%A8%E6%B5%B7%E6%B0%B4%E9%80%80%E6%BD%AE%E5%89%8D%E5%8F%91%E5%B8%83/) | 2287 | [IA]() |
+| [年终｜总之想到什么写什么 - 匣](https://lunasa.icu/monthly/byebye2024/) | 2288 | [IA](https://web.archive.org/web/20250114212504/https://lunasa.icu/monthly/byebye2024/) |
