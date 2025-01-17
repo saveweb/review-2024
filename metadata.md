@@ -189,7 +189,7 @@
 | [口水文年度总结 - 森木志](https://oxxx.cn/archives/1353.html) | 828 | [IA](https://web.archive.org/web/20250107055558/https://oxxx.cn/archives/1353.html) |
 | [2024年个人总结 - 码农明明桑](https://isming.me/2025-01-06-2024-summary/) | 2075 | [IA](https://web.archive.org/web/20250107055702/https://isming.me/2025-01-06-2024-summary/) |
 | [我的 2024 - 稳中求进、热爱生活 - This Cute World](https://thiscute.world/posts/2024-summary/?utm_source=atom_feed) | 1121 | [IA](https://web.archive.org/web/20250107153817/https://thiscute.world/posts/2024-summary/) |
-| [2024年度总结 - Lenger的后花园](https://varraro.github.io/2025/01/06/page-1/) | 1617 | [IA](https://web.archive.org/web/20250107154213/https://varraro.github.io/2025/01/06/page-1/) |
+| [2024年度总结 - Lenger的后花园](https://varraro.github.io/2025/01/06/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 1617 | [IA](https://web.archive.org/web/20250117140223/https://varraro.github.io/2025/01/06/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
 | [槽](https://miyehn.me/blog/#post/2024) | Null | [IA](https://web.archive.org/web/20250107163908/https://miyehn.me/blog/#post/2024) |
 | [回顾与展望 2024 - 2025 - 天仙子](https://tianxianzi.me/2025/01/06/new_year_plan_2025/) | 1791 | [IA](https://web.archive.org/web/20250107164055/https://tianxianzi.me/2025/01/06/new_year_plan_2025/) |
 | [【随便写写】71 & 2024年的摄影 - 天空Blond](https://skyblond.info/archives/1085.html) | 2229 | [IA](https://web.archive.org/web/20250107164246/https://skyblond.info/archives/1085.html) |
@@ -306,3 +306,9 @@
 | [2024-2025年终总结and新年计划 – 一只土狗的思维集散地](https://guqing0817.wordpress.com/2025/01/04/2024-2025%e5%b9%b4%e7%bb%88%e6%80%bb%e7%bb%93and%e6%96%b0%e5%b9%b4%e8%ae%a1%e5%88%92/) | 2317 | [IA](https://web.archive.org/web/20250115202702/https://guqing0817.wordpress.com/2025/01/04/2024-2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93and%E6%96%B0%E5%B9%B4%E8%AE%A1%E5%88%92/) |
 | [CHRONICLE SP01 - 梦永远地依然停滞在那里。 - 知识源于■累](https://www.tapiokataro.icu/2024/241231/) | 2318 | [IA](https://web.archive.org/web/20250115203206/https://www.tapiokataro.icu/2024/241231/) |
 | [一个普通魔法使的 2024 年终总结 - 名無声](https://alphardex.github.io/mygo/posts/62205/) | 2319 | [AT](https://archive.ph/H7Fao) |
+| [大梦一场--2024年终总结 - 隐云小屋](https://www.likehide.com/blogs/chat/2024_annual_report/) | 2320 | [IA](https://web.archive.org/web/20250117135807/https://www.likehide.com/blogs/chat/2024_annual_report/) |
+| [2024年终总结 - Jinvic's Blog](https://blog.jinvic.top/post/2024-year-end-summary/) | 2321 | [IA](https://web.archive.org/web/20250117092534/http://web.archive.org/screenshot/https://blog.jinvic.top/post/2024-year-end-summary/) |
+| [2024 年终总结 - 吴润写字的地方](https://wu.run/posts/2024-year-in-review/) | 2322 | [IA](https://web.archive.org/web/20250117140042/https://wu.run/posts/2024-year-in-review/) |
+| [Shimoko 2024 年度总结 - Shimoko](https://www.shimoko.com/p/shimoko2025/) | 1755 | [IA](https://web.archive.org/web/20250117140659/https://www.shimoko.com/p/shimoko2025/) |
+| [2024年度总结 - WooMai's Blog](https://woomai.me/talk/2024-summary/) | 2239 | [IA](https://web.archive.org/web/20250117140727/https://woomai.me/talk/2024-summary/) |
+| [Goodbye 2024 - informal](https://wa008.github.io/posts/year-of-2024/) | 1452 | [IA](https://web.archive.org/web/20250117140810/https://informal.top/posts/year-of-2024/) |
