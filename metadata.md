@@ -312,3 +312,5 @@
 | [Shimoko 2024 年度总结 - Shimoko](https://www.shimoko.com/p/shimoko2025/) | 1755 | [IA](https://web.archive.org/web/20250117140659/https://www.shimoko.com/p/shimoko2025/) |
 | [2024年度总结 - WooMai's Blog](https://woomai.me/talk/2024-summary/) | 2239 | [IA](https://web.archive.org/web/20250117140727/https://woomai.me/talk/2024-summary/) |
 | [Goodbye 2024 - informal](https://wa008.github.io/posts/year-of-2024/) | 1452 | [IA](https://web.archive.org/web/20250117140810/https://informal.top/posts/year-of-2024/) |
+| [唯有繁星与时光——我的二零二四年 - DGideas' Blog](https://dgideas.net/2025/among-stars-and-time-my-2024/) | 2323 | [IA](https://web.archive.org/web/20250117144130/https://dgideas.net/2025/among-stars-and-time-my-2024/) |
+| [2024年的总结 - Error0 Blog](https://www.error0.cn/article/16c00e6a-c895-805f-a44d-f6a4e6574567) | 2324 | [IA](https://web.archive.org/web/20250117144648/https://www.error0.cn/article/16c00e6a-c895-805f-a44d-f6a4e6574567) |
