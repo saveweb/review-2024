@@ -315,3 +315,8 @@
 | [唯有繁星与时光——我的二零二四年 - DGideas' Blog](https://dgideas.net/2025/among-stars-and-time-my-2024/) | 2323 | [IA](https://web.archive.org/web/20250117144130/https://dgideas.net/2025/among-stars-and-time-my-2024/) |
 | [2024年的总结 - Error0 Blog](https://www.error0.cn/article/16c00e6a-c895-805f-a44d-f6a4e6574567) | 2324 | [IA](https://web.archive.org/web/20250117144648/https://www.error0.cn/article/16c00e6a-c895-805f-a44d-f6a4e6574567) |
 | [2024 年终总结 - 雪，水車，小邪神飛踢！](https://aspi-rin.xlog.app/2024-review) | 2325 | [AT](https://archive.md/nP9lX) |
+| [双城记：生活在云上 - vaaandark 的博客](https://vaaandark.top/posts/2024-look-back/) | 2326 | [IA](https://web.archive.org/web/20250118195017/https://vaaandark.top/posts/2024-look-back/) |
+| [2024 年终总结 - Log4D](https://blog.alswl.com/2025/01/2024-review/) | 1904 | [IA](https://web.archive.org/web/20250118195204/https://blog.alswl.com/2025/01/2024-review/) |
+| [2024：日常诗。 - 鱼类观测研究所](https://with.fish/posts/every-daily-2024/) | 1589 | [IA](https://web.archive.org/web/20250118195504/https://with.fish/posts/every-daily-2024/) |
+| [2024年终总结 - 喧闹散去时，愿你我不再孤独 - 上阳尚书的blog](https://tzr.icu/20241225/2024%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93-%E5%96%A7%E9%97%B9%E6%95%A3%E5%8E%BB%E6%97%B6%EF%BC%8C%E6%84%BF%E4%BD%A0%E6%88%91%E4%B8%8D%E5%86%8D%E5%AD%A4%E7%8B%AC/) | Null | Null |
+| [2024 年终总结 - Axi's Blog](https://axi404.top/blog/2024) | 2327 | [IA](https://web.archive.org/web/20250118200050/https://axi404.top/blog/2024) |
