@@ -320,3 +320,10 @@
 | [2024：日常诗。 - 鱼类观测研究所](https://with.fish/posts/every-daily-2024/) | 1589 | [IA](https://web.archive.org/web/20250118195504/https://with.fish/posts/every-daily-2024/) |
 | [2024年终总结 - 喧闹散去时，愿你我不再孤独 - 上阳尚书的blog](https://tzr.icu/20241225/2024%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93-%E5%96%A7%E9%97%B9%E6%95%A3%E5%8E%BB%E6%97%B6%EF%BC%8C%E6%84%BF%E4%BD%A0%E6%88%91%E4%B8%8D%E5%86%8D%E5%AD%A4%E7%8B%AC/) | Null | Null |
 | [2024 年终总结 - Axi's Blog](https://axi404.top/blog/2024) | 2327 | [IA](https://web.archive.org/web/20250118200050/https://axi404.top/blog/2024) |
+| [Google Chrome 从 A~Z & 2024 年度总结 - Hat's Land](https://www.hats-land.com/archives/skills/2024-browser-from-a-to-z.html) | 2329 | [AT](https://archive.md/X1iPB) |
+| [27 岁，一个日本留学生的 2024年终总结 - Simon's Blog](https://song.al/2024) | 1594 | [IA](https://web.archive.org/web/20250120141626/https://song.al/2024) |
+| [My App Defaults 2024 - 陈仓颉](https://imzm.im/my-app-defaults-2024/) | 528 | [IA](https://web.archive.org/web/20250120141829/https://imzm.im/my-app-defaults-2024/) |
+| [2024年终总结 - 晓白博客](https://blog.chs.pub/p/24-13-endof2024/) | 1369 | [IA](https://web.archive.org/web/20250120141752/https://blog.chs.pub/p/24-13-endof2024/) |
+| [2025 年初展望 - 1 Byte](https://1byte.io/articles/start-of-2025/) | 311 | [IA](https://web.archive.org/web/20250120141832/https://1byte.io/articles/start-of-2025/) |
+| [年度问卷：2024 - 海布里天井](https://blog.feimind.xyz/questionsfor2024) | 571 | [IA](https://web.archive.org/web/20250120142107/https://blog.feimind.xyz/questionsfor2024) |
+| [2024年终总结 - DevNow — 开发技术周刊](https://www.laughingzhu.cn/posts/summary-for-2024) | 1860 | [IA](https://web.archive.org/web/20250120142210/https://www.laughingzhu.cn/posts/summary-for-2024) |
