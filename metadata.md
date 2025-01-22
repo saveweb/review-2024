@@ -328,4 +328,5 @@
 | [年度问卷：2024 - 海布里天井](https://blog.feimind.xyz/questionsfor2024) | 571 | [IA](https://web.archive.org/web/20250120142107/https://blog.feimind.xyz/questionsfor2024) |
 | [2024年终总结 - DevNow — 开发技术周刊](https://www.laughingzhu.cn/posts/summary-for-2024) | 1860 | [IA](https://web.archive.org/web/20250120142210/https://www.laughingzhu.cn/posts/summary-for-2024) |
 | [年度总结 2024 - Thoughts@Tsukino](https://tsukino.top/posts/life/summary-2024/) | 2332 | [IA](https://web.archive.org/web/20250121174316/https://tsukino.top/posts/life/summary-2024/) |
-| [2024年终总结 - 衣舞晨风](https://jiankunking.com/2024-year-end-summary.html) | Null | [IA](https://web.archive.org/web/20250122081122/https://jiankunking.com/2024-year-end-summary.html) |
+| [2024年终总结 - 衣舞晨风](https://jiankunking.com/2024-year-end-summary.html) | 2333 | [IA](https://web.archive.org/web/20250122081122/https://jiankunking.com/2024-year-end-summary.html) |
+| [2024这一年 - Counting Stars💫](https://hux.ink/posts/bye2024/) | 2334 | [IA](https://web.archive.org/web/20250122133039/https://hux.ink/posts/bye2024/) |
