@@ -327,3 +327,4 @@
 | [2025 年初展望 - 1 Byte](https://1byte.io/articles/start-of-2025/) | 311 | [IA](https://web.archive.org/web/20250120141832/https://1byte.io/articles/start-of-2025/) |
 | [年度问卷：2024 - 海布里天井](https://blog.feimind.xyz/questionsfor2024) | 571 | [IA](https://web.archive.org/web/20250120142107/https://blog.feimind.xyz/questionsfor2024) |
 | [2024年终总结 - DevNow — 开发技术周刊](https://www.laughingzhu.cn/posts/summary-for-2024) | 1860 | [IA](https://web.archive.org/web/20250120142210/https://www.laughingzhu.cn/posts/summary-for-2024) |
+| [2024年终总结 - 衣舞晨风](https://jiankunking.com/2024-year-end-summary.html) | Null | [IA](https://web.archive.org/web/20250122081122/https://jiankunking.com/2024-year-end-summary.html) |
