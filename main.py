@@ -9,7 +9,7 @@ markdown = """# review-2024
 
 **想要添加您的年终总结？请发 Issue 或编辑 metadata.md 发 PR**
 
-**如需请求删除收录，请联系 take-down#saveweb.org / info#saveweb.org / hi#nekoq.top **
+**如需请求删除收录，请联系 take-down#saveweb.org or info#saveweb.org or hi#nekoq.top **
 
 **（不需要填写博客ID，不需要编辑 README.md）。**
 
