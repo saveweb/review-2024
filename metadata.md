@@ -128,7 +128,6 @@
 | [抓住2024年的尾巴写一份年终总结吧 - 陶小桃Blog](https://www.52txr.cn/2024/2024conclusion.html) | Null | [IA](https://web.archive.org/web/20250102033859/https://www.52txr.cn/2024/2024conclusion.html) |
 | [2024 小事回顧 - chungkin Express](https://ckxpress.com/2024) | 2205 | [IA](https://web.archive.org/web/20250102034616/https://ckxpress.com/2024/) |
 | [2024年: 生活比工作忙, 又混/活了一年, 打工是挣不到钱的 - 小赖子的英国生活和资讯](https://justyy.com/archives/67216) | 793 | [IA](https://web.archive.org/web/20250102034727/https://justyy.com/archives/67216) |
-| [年终 - 突然就又到了写年终总结的日子 - 小球飞鱼](https://mantyke.icu/weekly/2025/2024-goodbye/) | 1688 | [IA](https://web.archive.org/web/20250102034845/https://mantyke.icu/weekly/2025/2024-goodbye/) |
 | [2024年的总结 - 顾宇的研习笔记](https://www.guyu.me/blog/2025/2025-01-01-annual-review/) | 303 | [IA](https://web.archive.org/web/20250102034923/https://www.guyu.me/blog/2025/2025-01-01-annual-review/) |
 | [2024年终总结 - Yunfeng's Simple Blog](http://vra.github.io/2024/12/31/summary-2024/) | 1465 | [IA](https://web.archive.org/web/20250102035016/https://vra.github.io/2024/12/31/summary-2024/) |
 | [2024 年个人总结 - 唐巧的博客](https://blog.devtang.com/2025/01/01/2024-summary/) | 115 | [IA](https://web.archive.org/web/20250102035112/https://blog.devtang.com/2025/01/01/2024-summary/) |
