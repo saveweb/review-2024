@@ -262,7 +262,6 @@
 | [2025，加油！ – 品味苏州](https://pwsz.com/life/4651.html) | 2278 | [IA](https://web.archive.org/web/20250114205051/https://pwsz.com/life/4651.html) |
 | [2024 · 应届牛马到远程自由 - 愧怍](https://kuizuo.cn/blog/2024-year-end-summary) | 2279 | [IA](https://web.archive.org/web/20250114205811/https://kuizuo.cn/blog/2024-year-end-summary) |
 | [2024 年终总结 - 宇阳 - 花有重开日, 人无再少年](https://liuyuyang.net/article/2214) | Null | [IA](https://web.archive.org/web/20250114205954/https://liuyuyang.net/article/2214) |
-| [2024 - 一些事物向前运行，既没有阴影也没有回声 - 枕石](https://zhen-shi.github.io/p/2024-wrap-up/) | 2280 | [IA](https://web.archive.org/web/20250114210405/https://zhen-shi.github.io/p/2024-wrap-up/) |
 | [2024同人年终总结 ✨ - 再會，謝謝所有的魚](https://gregueria.icu/posts/fanfic2024/) | 2281 | [IA](https://web.archive.org/web/20250114210745/https://gregueria.icu/posts/fanfic2024/) |
 | [2024年与半途而废 - 長門有希](https://blog.yuki-nagato.com/zh-cn/articles/2024-summary/) | 2282 | [IA](https://web.archive.org/web/20250114210658/https://blog.yuki-nagato.com/zh-cn/articles/2024-summary/) |
 | [2024-步履不停 - 昼河万里](https://tothemoonriver.icu/2025/2024%E6%AD%A5%E5%B1%A5%E4%B8%8D%E5%81%9C/) | 2283 | [IA](https://web.archive.org/web/20250114210923/https://tothemoonriver.icu/2025/2024%E6%AD%A5%E5%B1%A5%E4%B8%8D%E5%81%9C/) |
