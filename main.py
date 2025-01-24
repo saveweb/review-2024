@@ -10,7 +10,7 @@ WTF happened in 2024?
 **想要添加您的年终总结？请发 Issue 或编辑 metadata.md 发 PR**
 **（不需要填写博客ID，不要编辑 README.md）。**
 
-**删除收录，也可联系 take-down(at)saveweb.org
+**删除收录，也可联系 take-down@saveweb.org
 
 
 ---
