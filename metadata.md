@@ -304,3 +304,4 @@
 | [年度总结 2024 - Thoughts@Tsukino](https://tsukino.top/posts/life/summary-2024/) | 2332 | [IA](https://web.archive.org/web/20250121174316/https://tsukino.top/posts/life/summary-2024/) |
 | [2024年终总结 - 衣舞晨风](https://jiankunking.com/2024-year-end-summary.html) | 2333 | [IA](https://web.archive.org/web/20250122081122/https://jiankunking.com/2024-year-end-summary.html) |
 | [2024这一年 - Counting Stars💫](https://hux.ink/posts/bye2024/) | 2334 | [IA](https://web.archive.org/web/20250122133039/https://hux.ink/posts/bye2024/) |
+| [龙年（2024）总结：折腾 - 肖恩聊技术](https://shawnxie.top/blogs/talk/2024-end.html) | 2335 | [IA](http://web.archive.org/web/20250130115055/https://shawnxie.top/blogs/talk/2024-end.html) |
