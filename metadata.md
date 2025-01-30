@@ -267,7 +267,6 @@
 | [2024 - 2025 - Yelle🦋](https://yelleis.top/p/2024-2025/) | 2284 | [IA](https://web.archive.org/web/20250114211044/https://yelleis.top/p/2024-2025/) |
 | [2024 Wardrobe Recap - 2024 衣橱回顾 - After 27](https://www.after27.me/blog/2024-wardrobe-recap) | 2285 | [IA](https://web.archive.org/web/20250114211414/https://www.after27.me/blog/2024-wardrobe-recap) |
 | [2024年阅读总结 - 游托啤吖](https://ada3104.pages.dev/post/2024reading/) | 2286 | [IA](https://web.archive.org/web/20250114211515/https://ada3104.pages.dev/post/2024reading/) |
-| [年终｜总之想到什么写什么 - 匣](https://lunasa.icu/monthly/byebye2024/) | 2288 | [IA](https://web.archive.org/web/20250114212504/https://lunasa.icu/monthly/byebye2024/) |
 | [从2024走向2025 - 关关和六六 ' blog](https://www.gmcllp.cn/919.html) | 1274 | [IA](https://web.archive.org/web/20250115190417/https://www.gmcllp.cn/919.html) |
 | [hiRipple 2024年度总结 - hiRipple](https://hiripple.com/archives/3838) | 2289 | [IA](https://web.archive.org/web/20250115191128/https://hiripple.com/archives/3838) |
 | [總結2024 – 皮皮](https://xpipix.com/5729.html) | Null | [IA](https://web.archive.org/web/20250115191646/https://xpipix.com/5729.html) |
