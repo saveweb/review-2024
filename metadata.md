@@ -276,7 +276,6 @@
 | [我的 2024 年 - zzxworld](https://www.zzxworld.com/posts/2024-summary) | 2293 | [IA](https://web.archive.org/web/20250115192657/https://www.zzxworld.com/posts/2024-summary) |
 | [2024年终总结 - BOKEBO](https://bokebo.com/archives/2188) | 2294 | [IA](https://web.archive.org/web/20250115192827/https://bokebo.com/archives/2188) |
 | [Weekly #23：2025，出发 - SkyWT](https://skywt.cn/blog/weekly-23) | 2295 | [IA](https://web.archive.org/web/20250115193108/https://skywt.cn/blog/weekly-23) |
-| [迟来的Merry Christmas！ - 天堂错误文件](https://naturaleki.one/post/2024-dec-27th/) | 2305 | [IA](https://web.archive.org/web/20250115195847/https://naturaleki.one/post/2024-dec-27th/) |
 | [2024年终总结 – Echo小窝](https://www.liveout.cn/67-2/) | 2307 | [IA](https://web.archive.org/web/20250115200243/https://www.liveout.cn/67-2/) |
 | [2024年终问卷-1 - 烤肉肉](https://lowbee.icu/post/%E6%B5%AE%E7%94%9F%E8%AE%B0/2024/2024%E5%B9%B4%E7%BB%88/) | 2308 | [IA](https://web.archive.org/web/20250115200531/https://lowbee.icu/post/%E6%B5%AE%E7%94%9F%E8%AE%B0/2024/2024%E5%B9%B4%E7%BB%88/) |
 | [2024年度情感回顾与总结 - lemorica](https://lemorica.cn/blog/draft-post/) | 2311 | [IA](https://web.archive.org/web/20250115201437/https://lemorica.cn/blog/draft-post/) |
