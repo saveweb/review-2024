@@ -279,7 +279,6 @@
 | [2024年终总结 – Echo小窝](https://www.liveout.cn/67-2/) | 2307 | [IA](https://web.archive.org/web/20250115200243/https://www.liveout.cn/67-2/) |
 | [2024年终问卷-1 - 烤肉肉](https://lowbee.icu/post/%E6%B5%AE%E7%94%9F%E8%AE%B0/2024/2024%E5%B9%B4%E7%BB%88/) | 2308 | [IA](https://web.archive.org/web/20250115200531/https://lowbee.icu/post/%E6%B5%AE%E7%94%9F%E8%AE%B0/2024/2024%E5%B9%B4%E7%BB%88/) |
 | [2024年度情感回顾与总结 - lemorica](https://lemorica.cn/blog/draft-post/) | 2311 | [IA](https://web.archive.org/web/20250115201437/https://lemorica.cn/blog/draft-post/) |
-| [2024-2025年终总结and新年计划 – 一只土狗的思维集散地](https://guqing0817.wordpress.com/2025/01/04/2024-2025%e5%b9%b4%e7%bb%88%e6%80%bb%e7%bb%93and%e6%96%b0%e5%b9%b4%e8%ae%a1%e5%88%92/) | 2317 | [IA](https://web.archive.org/web/20250115202702/https://guqing0817.wordpress.com/2025/01/04/2024-2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93and%E6%96%B0%E5%B9%B4%E8%AE%A1%E5%88%92/) |
 | [一个普通魔法使的 2024 年终总结 - 名無声](https://alphardex.github.io/mygo/posts/62205/) | 2319 | [AT](https://archive.ph/H7Fao) |
 | [大梦一场--2024年终总结 - 隐云小屋](https://www.likehide.com/blogs/chat/2024_annual_report/) | 2320 | [IA](https://web.archive.org/web/20250117135807/https://www.likehide.com/blogs/chat/2024_annual_report/) |
 | [2024年终总结 - Jinvic's Blog](https://blog.jinvic.top/post/2024-year-end-summary/) | 2321 | [IA](https://web.archive.org/web/20250117092534/http://web.archive.org/screenshot/https://blog.jinvic.top/post/2024-year-end-summary/) |
