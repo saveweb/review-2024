@@ -277,7 +277,6 @@
 | [我的 2024 年 - zzxworld](https://www.zzxworld.com/posts/2024-summary) | 2293 | [IA](https://web.archive.org/web/20250115192657/https://www.zzxworld.com/posts/2024-summary) |
 | [2024年终总结 - BOKEBO](https://bokebo.com/archives/2188) | 2294 | [IA](https://web.archive.org/web/20250115192827/https://bokebo.com/archives/2188) |
 | [Weekly #23：2025，出发 - SkyWT](https://skywt.cn/blog/weekly-23) | 2295 | [IA](https://web.archive.org/web/20250115193108/https://skywt.cn/blog/weekly-23) |
-| [2024同人总结 - 让黑夜划满星](https://www.rouroupuppy.top/article/fanfic2024) | 2301 | [IA](https://web.archive.org/web/20250115194717/https://www.rouroupuppy.top/article/fanfic2024) |
 | [Record - 2024年终总结 - Kawa1Planet](https://kawa1planet.fun/posts/2024conclusion/) | 2304 | [IA](https://web.archive.org/web/20250115195419/https://kawa1planet.fun/posts/2024conclusion/) |
 | [迟来的Merry Christmas！ - 天堂错误文件](https://naturaleki.one/post/2024-dec-27th/) | 2305 | [IA](https://web.archive.org/web/20250115195847/https://naturaleki.one/post/2024-dec-27th/) |
 | [2024年终总结 – Echo小窝](https://www.liveout.cn/67-2/) | 2307 | [IA](https://web.archive.org/web/20250115200243/https://www.liveout.cn/67-2/) |
