@@ -153,7 +153,7 @@
 | [波澜起伏的2024 - 醉乐轩](https://behappy.cc/life/2024-final/) | 1111 | [IA](https://web.archive.org/web/20250102132553/https://behappy.cc/life/2024-final/) |
 | [2024年终总结 - Homura's Blog](https://homura.live/2025/01/01/Summary/summary-2024/) | 2209 | [IA](https://web.archive.org/web/20250102132925/https://homura.live/2025/01/01/Summary/summary-2024/) |
 | [2024 年终总结 - Hyoban](https://hyoban.xlog.app/review-2024) | 2210 | [IA](https://web.archive.org/web/20250102133042/https://hyoban.xlog.app/review-2024) |
-| [2024 年终总结 - 柏园猫のBlog](https://nekomoe.xyz/index.html?type=article&filename=2024-summary.md) | 1649 | [IA](https://web.archive.org/web/20250102162956/https://nekomoe.xyz/?type=article&filename=2024-summary.md) | 
+| [2024 年终总结 - 柏园猫のBlog](https://nekomoe.xyz/index.html?type=article&filename=2024-summary.md) | 1649 | [IA](https://web.archive.org/web/20250102162956/https://nekomoe.xyz/?type=article&filename=2024-summary.md) |
 | [我的 2024 年终总结 - 無意識の桜](https://koishi514.moe/blog/bbg/index.html?type=article&filename=8YkDYKfG5wDN.md) | 2211 | [IA](https://web.archive.org/web/20250102163612/https://koishi514.moe/blog/bbg/index.html?type=article&filename=8YkDYKfG5wDN.md) |
 | [2024年度总结 - chihuo2104の部落格](https://blog.chihuo2104.dev/posts/goodbye-2024) | 2212 | [IA](https://web.archive.org/web/20250102163837/https://blog.chihuo2104.dev/posts/goodbye-2024) |
 | [Y2025班次冬日列车 - 反応蒸留](https://blog.mjt.asia/posts/bc0e860c/) | 2213 | [IA](https://web.archive.org/web/20250102164018/https://blog.mjt.asia/posts/bc0e860c/) |
@@ -168,7 +168,7 @@
 | [我的2024：赶进度 - SKYue's Home](https://www.skyue.com/25010519.html) | 998 | [IA](https://web.archive.org/web/20250105125207/https://www.skyue.com/25010519.html) |
 | [2024 节点：在持续变化的环境中寻找竞争力 - 全栈应用开发:精益实践](http://www.phodal.com/blog/node-2024/) | 32 | [IA](https://web.archive.org/web/20250105125355/https://www.phodal.com/blog/node-2024/) |
 | [回顾维基萌的2024 - 维基萌](https://www.wikimoe.com/post/ye26eeha) | 273 | [IA](https://web.archive.org/web/20250105125452/https://www.wikimoe.com/post/ye26eeha) |
-| [2024年度总结 - luxinfeng’s home](https://www.luxinfeng.top/article/20250101-2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93) | 1733 | [IA](https://web.archive.org/web/20250105125540/https://www.luxinfeng.top/article/20250101-2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93) | 
+| [2024年度总结 - luxinfeng’s home](https://www.luxinfeng.top/article/20250101-2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93) | 1733 | [IA](https://web.archive.org/web/20250105125540/https://www.luxinfeng.top/article/20250101-2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93) |
 | [2024 回顧與十二月大小事 - Jessie's 潔西家](https://jessielinhuiching.wordpress.com/2025/01/04/2024-%E5%9B%9E%E9%A1%A7%E8%88%87%E5%8D%81%E4%BA%8C%E6%9C%88%E5%A4%A7%E5%B0%8F%E4%BA%8B/) | 2059 | [IA](https://web.archive.org/web/20250105125626/https://jessielinhuiching.wordpress.com/2025/01/04/2024-%E5%9B%9E%E9%A1%A7%E8%88%87%E5%8D%81%E4%BA%8C%E6%9C%88%E5%A4%A7%E5%B0%8F%E4%BA%8B/) |
 | [2024 年度记录 - YeungYeah 的乱写地](https://scottyeung.top/2025/record-of-2024/) | 265 | [IA](https://web.archive.org/web/20250105125938/https://scottyeung.top/2025/record-of-2024/) |
 | [FGHRSH 2024 年度报告 - FGHRSH 的博客](https://www.fghrsh.net/post/200.html) | 1784 | [IA](https://web.archive.org/web/20250105130051/https://www.fghrsh.net/post/200.html) |
@@ -305,3 +305,4 @@
 | [2024年终总结 - 衣舞晨风](https://jiankunking.com/2024-year-end-summary.html) | 2333 | [IA](https://web.archive.org/web/20250122081122/https://jiankunking.com/2024-year-end-summary.html) |
 | [2024这一年 - Counting Stars💫](https://hux.ink/posts/bye2024/) | 2334 | [IA](https://web.archive.org/web/20250122133039/https://hux.ink/posts/bye2024/) |
 | [龙年（2024）总结：折腾 - 肖恩聊技术](https://shawnxie.top/blogs/talk/2024-end.html) | 2335 | [IA](http://web.archive.org/web/20250130115055/https://shawnxie.top/blogs/talk/2024-end.html) |
+| [我的2024 - 二丫讲梵](https://wiki.eryajf.net/pages/5f5910/) |  |  |
