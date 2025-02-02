@@ -9,7 +9,7 @@ WTF happened in 2024?
 **想要添加您的年终总结？请发 Issue 或编辑 metadata.md 发 PR**
 **（不需要填写博客ID，不要编辑 README.md）。**
 
-**删除收录，也可联系** take-down@saveweb.org
+**删除收录，也可联系 take-down@saveweb.org
 
 
 ---
@@ -255,7 +255,7 @@ WTF happened in 2024?
 | [2024 年度总结 - Bingxin Blog](https://blog.byteloid.one/2024/12/29/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 2188 | [IA](https://web.archive.org/web/20241229162508/https://blog.byteloid.one/2024/12/29/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
 | [2024 年度总结 - 新城旧梦](https://www.itxcjm.top/317/) | 2204 | [Megalodon](https://megalodon.jp/2025-0101-1310-54/itxcjm.top/317/) |
 | [抓住2024年的尾巴写一份年终总结吧 - 陶小桃Blog](https://www.52txr.cn/2024/2024conclusion.html) | Null | [IA](https://web.archive.org/web/20250102033859/https://www.52txr.cn/2024/2024conclusion.html) |
-| [2024 年终总结 - 柏园猫のBlog](https://nekomoe.xyz/index.html?type=article&filename=2024-summary.md) | 1649 | [IA](https://web.archive.org/web/20250102162956/https://nekomoe.xyz/?type=article&filename=2024-summary.md) |
+| [2024 年终总结 - 柏园猫のBlog](https://nekomoe.xyz/index.html?type=article&filename=2024-summary.md) | 1649 | [IA](https://web.archive.org/web/20250102162956/https://nekomoe.xyz/?type=article&filename=2024-summary.md) | 
 | [2024年终总结 - PPD's blog](https://ppd0705.github.io/post/2024_summary/) | 1611 | [IA](https://web.archive.org/web/20241231053621/https://ppd0705.github.io/post/2024_summary/) |
 | [2024年的年终总结：转变与沉淀 - iTimothy](https://xiaozhou.net/2024-summary-2025-01-01.html) | 65 | [IA](https://web.archive.org/web/20250102035159/https://xiaozhou.net/2024-summary-2025-01-01.html) |
 | [2024 总结--匮乏与滑落 - Motion Slow](https://www.icey.one/2024-review/) | 1296 | [IA](https://web.archive.org/web/20241231184921/https://www.icey.one/2024-review/) |
@@ -286,7 +286,7 @@ WTF happened in 2024?
 | [懋和道人 2024 年终总结及未来展望 - 懋和道人](https://www.dao.js.cn/new/2024121411536.shtml) | 2107 | [IA](https://web.archive.org/web/20241215151258/https://www.dao.js.cn/new/2024121411536.shtml) |
 | [2024干啥了 - Albus' Pensieve - 邓布利多的冥想盆](https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) | 2020 | [IA](https://web.archive.org/web/20250112160200/https://pensieve.wangxindi.org/2024/12/31/2024-12-31-summary2024/) |
 | [2024。然后，下一曲即将奏响 - ScaredCube](https://sccube.link/2024-2025/) | 2245 | [IA](https://web.archive.org/web/20250110151446/https://sccube.link/2024-2025/) |
-| [2024年度总结 - luxinfeng’s home](https://www.luxinfeng.top/article/20250101-2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93) | 1733 | [IA](https://web.archive.org/web/20250105125540/https://www.luxinfeng.top/article/20250101-2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93) |
+| [2024年度总结 - luxinfeng’s home](https://www.luxinfeng.top/article/20250101-2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93) | 1733 | [IA](https://web.archive.org/web/20250105125540/https://www.luxinfeng.top/article/20250101-2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93) | 
 | [写给27岁的自己 - orzi! - 做一个有想法的人](https://orzi.me/index.php/archives/59/) | 2271 | [IA](https://web.archive.org/web/20250114201855/https://orzi.me/index.php/archives/59/) |
 | [2024年年度总结 - Kivinsae's Nest](https://www.kivinsae.com/2024/12/29/2024-12-31-Summary/) | 1899 | [IA](https://web.archive.org/web/20241229160822/https://www.kivinsae.com/2024/12/29/2024-12-31-Summary/) |
 | [ 再见2024 · 共赴一场烟火绚烂  - 呓语梦轩](https://blog.awaae001.top/posts/57024.html) | 2192 | [IA](https://web.archive.org/web/20241230090700/https://blog.awaae001.top/posts/57024.html) |
