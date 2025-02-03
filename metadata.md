@@ -306,3 +306,4 @@
 | [2024这一年 - Counting Stars💫](https://hux.ink/posts/bye2024/) | 2334 | [IA](https://web.archive.org/web/20250122133039/https://hux.ink/posts/bye2024/) |
 | [龙年（2024）总结：折腾 - 肖恩聊技术](https://shawnxie.top/blogs/talk/2024-end.html) | 2335 | [IA](http://web.archive.org/web/20250130115055/https://shawnxie.top/blogs/talk/2024-end.html) |
 | [我的2024 - 二丫讲梵](https://wiki.eryajf.net/pages/5f5910/) | 364 | [IA](http://web.archive.org/web/1/https://wiki.eryajf.net/pages/5f5910/) |
+| [请回答 2024 - Eddie's Blog](https://blog.eddiehe.top/article/annual-review-2024) | 1756 | [AT](https://archive.md/gtZee) |
