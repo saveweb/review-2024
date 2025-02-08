@@ -308,3 +308,4 @@
 | [我的2024 - 二丫讲梵](https://wiki.eryajf.net/pages/5f5910/) | 364 | [IA](http://web.archive.org/web/1/https://wiki.eryajf.net/pages/5f5910/) |
 | [请回答 2024 - Eddie's Blog](https://blog.eddiehe.top/article/annual-review-2024) | 1756 | [AT](https://archive.md/gtZee) |
 | [向着璀璨的未来进发 —— 我的 2024 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2024/) | 1029 | [IA](https://web.archive.org/web/20250201035512/https://blog.baoshuo.ren/post/goodbye-2024/) |
+| [再见，2024 - Nemo](https://nemo.cool/1133.html) | 1688 | AT |
