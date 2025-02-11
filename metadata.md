@@ -309,4 +309,4 @@
 | [请回答 2024 - Eddie's Blog](https://blog.eddiehe.top/article/annual-review-2024) | 1756 | [AT](https://archive.md/gtZee) |
 | [向着璀璨的未来进发 —— 我的 2024 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2024/) | 1029 | [IA](https://web.archive.org/web/20250201035512/https://blog.baoshuo.ren/post/goodbye-2024/) |
 | [再见，2024 - Nemo](https://nemo.cool/1133.html) | 1688 | AT |
-| [2024修行之路 - yong-fpga博客](https://yong-fpga.com/2024%e4%bf%ae%e8%a1%8c%e4%b9%8b%e8%b7%af/) | Null | Null |
+| [2024修行之路 - yong-fpga博客](https://yong-fpga.com/2024%e4%bf%ae%e8%a1%8c%e4%b9%8b%e8%b7%af/) | 2338 | IA |
