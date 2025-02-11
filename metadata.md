@@ -310,3 +310,4 @@
 | [向着璀璨的未来进发 —— 我的 2024 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2024/) | 1029 | [IA](https://web.archive.org/web/20250201035512/https://blog.baoshuo.ren/post/goodbye-2024/) |
 | [再见，2024 - Nemo](https://nemo.cool/1133.html) | 1688 | AT |
 | [2024修行之路 - yong-fpga博客](https://yong-fpga.com/2024%e4%bf%ae%e8%a1%8c%e4%b9%8b%e8%b7%af/) | 2338 | IA |
+| [2024 世界赠予我的 - Yigeng’s Blog](https://yigengjiang.github.io/posts/2024_summary/) | 1752 | [IA](https://web.archive.org/web/20250211163347/https://yigengjiang.github.io/posts/2024_summary/) |
