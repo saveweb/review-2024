@@ -311,3 +311,4 @@
 | [再见，2024 - Nemo](https://nemo.cool/1133.html) | 1688 | AT |
 | [2024修行之路 - yong-fpga博客](https://yong-fpga.com/2024%e4%bf%ae%e8%a1%8c%e4%b9%8b%e8%b7%af/) | 2338 | IA |
 | [2024 世界赠予我的 - Yigeng’s Blog](https://yigengjiang.github.io/posts/2024_summary/) | 1752 | [IA](https://web.archive.org/web/20250211163347/https://yigengjiang.github.io/posts/2024_summary/) |
+| [2024年总结 - Ginta](https://ginta.top/2025/02/14/1047/)| Null | [IA](https://web.archive.org/web/20250217015338/https://ginta.top/2025/02/14/1047/) |
