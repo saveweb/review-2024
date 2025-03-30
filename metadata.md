@@ -313,3 +313,4 @@
 | [2024 世界赠予我的 - Yigeng’s Blog](https://yigengjiang.github.io/posts/2024_summary/) | 1752 | [IA](https://web.archive.org/web/20250211163347/https://yigengjiang.github.io/posts/2024_summary/) |
 | [2024年总结 - Ginta](https://ginta.top/2025/02/14/1047/)| 1739 | [IA](https://web.archive.org/web/20250217015338/https://ginta.top/2025/02/14/1047/) |
 | [2024，告别盛夏 - Airing 的博客](https://blog.ursb.me/posts/summary-2024/) | 1441 | [IA](https://web.archive.org/web/20250317001232/https://blog.ursb.me/posts/summary-2024) |
+| [2024年终总结 - 流动](https://liudon.com/posts/review-2024/) | 1626 | [IA](https://web.archive.org/web/20250330135925/https://liudon.com/posts/review-2024/) |
