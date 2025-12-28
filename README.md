@@ -214,7 +214,7 @@ WTF happened in 2024?
 | [2024年终总结 - DevNow — 开发技术周刊](https://www.laughingzhu.cn/posts/summary-for-2024) | 1860 | [IA](https://web.archive.org/web/20250120142210/https://www.laughingzhu.cn/posts/summary-for-2024) |
 | [2024年终总结 - zzjzxq33's blog](https://blog.akuamar1n.com/2024/12/31/2024-summary/) | 2215 | [IA](https://web.archive.org/web/20250102164358/https://blog.akuamar1n.com/2024/12/31/2024-summary/) |
 | [27 岁，一个日本留学生的 2024年终总结 - Simon's Blog](https://song.al/2024) | 1594 | [IA](https://web.archive.org/web/20250120141626/https://song.al/2024) |
-| [RECAP2024：胶卷中的一年 - CLCK's Space](https://www.clckblog.space/blog/recap-2024/) | Null | [IA](https://web.archive.org/web/20250106130824/https://www.clckblog.space/blog/recap-2024/) |
+| [RECAP2024：胶卷中的一年 - CLCK's Space](https://www.clckkkkk.site/blog/recap-2024/) | Null | [IA](https://web.archive.org/web/20250106130824/https://www.clckblog.space/blog/recap-2024/) |
 | [双城记：生活在云上 - vaaandark 的博客](https://vaaandark.top/posts/2024-look-back/) | 2326 | [IA](https://web.archive.org/web/20250118195017/https://vaaandark.top/posts/2024-look-back/) |
 | [2024 年度回顾 - Platform Thinking +](https://pt.plus/2024-year-in-review/) | 429 | [IA](https://web.archive.org/web/20241231053953/https://pt.plus/2024-year-in-review/) |
 | [口水文年度总结 - 森木志](https://oxxx.cn/archives/1353.html) | 828 | [IA](https://web.archive.org/web/20250107055558/https://oxxx.cn/archives/1353.html) |
