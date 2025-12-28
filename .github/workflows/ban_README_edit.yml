@@ -9,7 +9,7 @@ jobs:
   close-pr:
     runs-on: ubuntu-latest
     steps:
-    - name: Close PR if README.md changed
-      uses: peter-evans/close-pull@v3.0.1
-      with:
-        comment: do not edit README.md
+    - name: Close Pull if README.md changed
+      run: gh pr close --comment "do not edit README.md" --delete-branch "1"
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
